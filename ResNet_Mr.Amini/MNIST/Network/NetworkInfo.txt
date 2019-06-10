@@ -1,0 +1,6 @@
+model : ResNet32
+n_epoch : 3
+batch_size : 128
+optimizer : AdamOptimizer
+dataset : MNIST
+testing accuracy : 0.91022223
