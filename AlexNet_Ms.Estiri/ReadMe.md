@@ -16,7 +16,7 @@ the first alexnet implementation was based on the paper but for cifar dataset it
 
 ## alexnet2.py
 
-added data augmentation to overcome overfitting and also some changes in puring and dropout.
+added data augmentation to overcome overfitting and also some changes in pruning and dropout.
 
 ## INQ.py
 
