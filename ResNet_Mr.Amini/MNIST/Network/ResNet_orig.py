@@ -19,8 +19,8 @@ Label = tf.placeholder(dtype=tf.int32 , shape=(None , num_classes) , name="label
 learning_rate = tf.placeholder(dtype=tf.float32 , name="learning_rate")
 
 #--------------------------------------------------------------------------------------
-#weights = create_weights(depth=depth , num_classes=num_classes)
-weights = load_weights(weights_dir=weights_dir)
+weights = create_weights(depth=depth , num_classes=num_classes)
+#weights = load_weights(weights_dir=weights_dir)
 
 weights_info = get_weights_info(weights)
 
