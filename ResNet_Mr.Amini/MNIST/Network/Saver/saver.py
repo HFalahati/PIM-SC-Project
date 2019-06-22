@@ -57,9 +57,9 @@ def save_2d_array(array , file_name):
 
 #-------------------------------------------------------------------------------------------
 
-def saveLog(loss , acc , iteration , dir , file_name):
+def saveLog(loss , acc , iteration , dir , learning_rate , file_name):
     file = open(dir + file_name , "a")
-    record = str(loss) + " " + str(acc) + " " + str(iteration) + "\n"
+    record = str(loss) + " " + str(acc) + " " + str(iteration) + " " + str(learning_rate) +  "\n"
     file.write(record)
     file.close()
     return
@@ -87,10 +87,10 @@ def save_weights_to_file(session , weights , weights_dir , dir):
         for name in weights.keys():
             file_name = working_dir + "/" + str(name) + ".txt"
             weight = session.run(weights[name])
-            if (len(weight.shape) == 4):
+            if ("convolution" in name):
                 save_4d_array(weight , file_name)
 
-            elif (len(weight.shape) == 1):
+            elif ("fc" in name):
                     save_2d_array(weight , file_name)
 
             else:
