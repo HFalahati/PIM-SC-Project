@@ -1,29 +1,28 @@
 import numpy as np
+from Saver import saver
+from NetworkWeights import *
+from config import *
+from INQ_Resnet import Train , Inference
 
 #----------------------------------------------------------------------------------------------
 
-accumulated_portion = [50 , 75 , 87.5 , 100]
 
 #-----------------------------------------------------------------------------------------------
 
-def read_weights(file_name):
-    weights = np.loadtxt(file_name)
-    return weights
-
 #------------------------------------------------------------------------------------------------
 
-def Initialize(num_layer , data_directory):
-    A1 = dict()
-    A2 = dict()
+def Initialize():
+    A1 = load_weights_for_quantization(weights_dir)
     T = dict()
-    layer_name_prefix = 'convolutional'
-    for layer in range(num_layer):
-        A1[layer_name_prefix + str(layer + 1)] = np.array([] , dtype=np.float32)
-        print("loading weights from layer " + str(layer + 1) + " ...")
-        A2[layer_name_prefix + str(layer + 1)] = read_weights(data_directory + layer_name_prefix + str(layer + 1) + ".txt")
-        print("loading weights from layer " + str(layer + 1) + " done :)")
-        T[layer_name_prefix + str(layer + 1)] = np.ones(len(A2[layer_name_prefix + str(layer + 1)]) , dtype=np.float32)
-    return (A1 , A2 , T)
+    Indexes = dict()
+    num_weights = dict()
+    Sum = dict()
+    for name in A1.keys():
+        num_weights[name] = len(A1[name])
+        Indexes[name] = np.arange(len(A1[name]))
+        T[name] = np.ones(len(A1[name]) , dtype=np.float32)
+        Sum[name] = 0
+    return (A1 , T , Indexes , num_weights , Sum)
 
 #---------------------------------------------------------------------------------------------
 
@@ -33,16 +32,18 @@ def Initialize(num_layer , data_directory):
 
 #-----------------------------------------------------------------------------------------------
 
-def select_weights(num_weights , all=False):
-    index = (np.arange(num_weights))
-    if(all):
-        selected_weights = index
-        unselected = np.array([])
-    else:
-        np.random.shuffle(index)
-        selected_weights = index[:num_weights // 2 + 1]
-        unselected = index[num_weights // 2 + 1:]
-    return (selected_weights,unselected)
+def select_weights(Indexes , num_weights , a , Sum):
+    index = Indexes[Indexes >= 0]
+    portion = len(Indexes) * a
+    a = int(num_weights // (portion - Sum))
+    np.random.shuffle(index)
+    selected_weights = index[:(num_weights // a)]
+    try:
+        unselected = index[(num_weights // a):]
+    except:
+        unselected = list()
+    return (selected_weights,len(unselected) , portion)
+
 
 #--------------------------------------------------------------------------------------------
 
@@ -93,8 +94,11 @@ def sgn(x):
 
 #-----------------------------------------------------------------------------------------------
 
-def do_quantization(weights, P):
+def do_quantization(weights, P , zero=False):
     for i in range(len(weights)):
+        if(zero):
+            weights[i] = 0
+        else:
             quantized = False
             for j in range(len(P) - 1):
                 alpha = P[j]
@@ -114,39 +118,33 @@ def do_quantization(weights, P):
 
 #-----------------------------------------------------------------------------------------------
 
-def main(num_layer , bit_width , data_directory):
+def main():
     print("loading weights....")
-    A1 , A2 ,T = Initialize(num_layer , data_directory)
+    A1 ,T , Indexes , num_weights , Sum = Initialize()
     print("loading weights done :))")
-    layer_name_prefix = 'convolutional'
-    for i in range(4):
-        for layer in range(num_layer):
-            if(i == 3):
-                selected , unselected = select_weights(len(A2[layer_name_prefix + str(layer + 1)]) , all=True)
-            else:
-                selected, unselected = select_weights(len(A2[layer_name_prefix + str(layer + 1)]))
-            A1[layer_name_prefix + str(layer + 1)] = A2[layer_name_prefix + str(layer + 1)][selected]
-            if(i != 3):
-                A2[layer_name_prefix + str(layer + 1)] = A2[layer_name_prefix + str(layer + 1)][unselected]
-            else:
-                A2[layer_name_prefix + str(layer + 1)] = np.array([])
-            T[layer_name_prefix + str(layer + 1)][selected] = 0
-            n1 = clc_n1(clc_s(A1[layer_name_prefix + str(layer + 1)]))
+    for i in range(len(accumulated_portion)):
+        for name in A1.keys():
+            print("start {} layer quantization in iteration {}".format(name , i+1))
+            selected , num_weights[name] , Sum[name] = select_weights(Indexes=Indexes[name] , num_weights=num_weights[name] , a=accumulated_portion[i] , Sum=Sum[name])
+            Indexes[name][selected] = -1
+            T[name][selected] = 0
+            n1 = clc_n1(clc_s(A1[name]))
             n2 = clc_n2(n1 , bit_width)
             P = create_P_set(n1 , n2)
-            A1[layer_name_prefix +  str(layer + 1)] = do_quantization(A1[layer_name_prefix + str(layer + 1)] , P)
+            if(n1 < -8):
+                A1[name][selected] = do_quantization(A1[name][selected] , P , zero=True)
+            else:
+                A1[name][selected] = do_quantization(A1[name][selected], P)
+       # print("start saving...")
+        dir = "/resnet{}_quantized_weights_iteration{}".format(depth , i+1)
+        with tf.Session() as sess:
+            saver.save_weights_to_file(session=sess , weights=A1 , weights_dir=quantized_weights_dir , dir=dir , numpy_array=True)
+        if(i < len(accumulated_portion)-1):
+            Train(selector=T , iteration=i+1)
+            A1 = load_weights_for_quantization(weights_dir)
+        else:
+            Inference(selector=T)
+    return
 
-        #just for test
-        print(len(A2['convolutional10']))
-
-    #just for test
-    return (A1['convolutional3'])
-
-
-num_laley = 34
-bit_width = 5
-data_directory = 'weights/'
-
-conv3 = main(num_laley , bit_width , data_directory)
-result = 'test.txt'
-np.savetxt(result , conv3 , fmt='%5s')
+if __name__ == '__main__':
+    main()
