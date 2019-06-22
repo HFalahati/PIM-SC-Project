@@ -1,6 +1,8 @@
 model : ResNet32
-n_epoch : 3
+n_epoch : 100
 batch_size : 128
-optimizer : AdamOptimizer
+optimizer : SGD with Momentum
 dataset : MNIST
-testing accuracy : 0.91022223
+training accuracy : 1.0000
+validation accuracy : 0.9780
+testing accuracy : 0.9772
