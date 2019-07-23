@@ -1,0 +1,5 @@
+Epoch [1/2], Step [100/235], Loss: 0.3071
+Epoch [1/2], Step [200/235], Loss: 0.2227
+Epoch [2/2], Step [100/235], Loss: 0.0727
+Epoch [2/2], Step [200/235], Loss: 0.0777
+Test Accuracy of the model on the 10000 test images: 96.93 %

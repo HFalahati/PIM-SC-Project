@@ -1,0 +1,95 @@
+=== Epoch 0 ===
+Iteration 10, loss: 7704.04248046875
+	Accuracy on 10000 images: 93.57 %
+Iteration 20, loss: 3124.2060546875
+	Accuracy on 10000 images: 93.89 %
+Iteration 30, loss: 5825.712890625
+	Accuracy on 10000 images: 95.93 %
+Iteration 40, loss: 3716.56982421875
+	Accuracy on 10000 images: 95.13 %
+Iteration 50, loss: 4151.64599609375
+	Accuracy on 10000 images: 96.43 %
+Iteration 60, loss: 2979.934326171875
+	Accuracy on 10000 images: 95.91 %
+Iteration 70, loss: 2516.719970703125
+	Accuracy on 10000 images: 96.11 %
+Iteration 80, loss: 357.4615783691406
+	Accuracy on 10000 images: 96.38 %
+Iteration 90, loss: 568.376708984375
+	Accuracy on 10000 images: 96.3 %
+Iteration 100, loss: 2885.4384765625
+	Accuracy on 10000 images: 96.54 %
+Iteration 110, loss: 908.0399780273438
+	Accuracy on 10000 images: 96.31 %
+Iteration 120, loss: 1830.3067626953125
+	Accuracy on 10000 images: 96.17 %
+Iteration 130, loss: 2063.058837890625
+	Accuracy on 10000 images: 95.84 %
+Iteration 140, loss: 710.9907836914062
+	Accuracy on 10000 images: 96.47 %
+Iteration 150, loss: 1008.4805908203125
+	Accuracy on 10000 images: 96.38 %
+Iteration 160, loss: 2126.119384765625
+	Accuracy on 10000 images: 95.9 %
+Iteration 170, loss: 1896.9884033203125
+	Accuracy on 10000 images: 96.55 %
+Iteration 180, loss: 350.6741027832031
+	Accuracy on 10000 images: 96.87 %
+Iteration 190, loss: 749.4490356445312
+	Accuracy on 10000 images: 96.58 %
+Iteration 200, loss: 322.1734313964844
+	Accuracy on 10000 images: 96.86 %
+Iteration 210, loss: 406.71148681640625
+	Accuracy on 10000 images: 96.64 %
+Iteration 220, loss: 819.0589599609375
+	Accuracy on 10000 images: 96.7 %
+Iteration 230, loss: 452.87646484375
+	Accuracy on 10000 images: 96.97 %
+=== Epoch 1 ===
+Iteration 10, loss: 710.7408447265625
+	Accuracy on 10000 images: 96.9 %
+Iteration 20, loss: 132.92724609375
+	Accuracy on 10000 images: 97.02 %
+Iteration 30, loss: 802.4881591796875
+	Accuracy on 10000 images: 96.82 %
+Iteration 40, loss: 574.9483642578125
+	Accuracy on 10000 images: 96.5 %
+Iteration 50, loss: 393.2318420410156
+	Accuracy on 10000 images: 96.43 %
+Iteration 60, loss: 353.90875244140625
+	Accuracy on 10000 images: 96.39 %
+Iteration 70, loss: 206.50950622558594
+	Accuracy on 10000 images: 96.67 %
+Iteration 80, loss: 566.4710083007812
+	Accuracy on 10000 images: 96.76 %
+Iteration 90, loss: 273.1605224609375
+	Accuracy on 10000 images: 96.66 %
+Iteration 100, loss: 244.20362854003906
+	Accuracy on 10000 images: 96.63 %
+Iteration 110, loss: 181.1648712158203
+	Accuracy on 10000 images: 96.93 %
+Iteration 120, loss: 152.14892578125
+	Accuracy on 10000 images: 96.98 %
+Iteration 130, loss: 249.15347290039062
+	Accuracy on 10000 images: 96.43 %
+Iteration 140, loss: 499.1241760253906
+	Accuracy on 10000 images: 96.75 %
+Iteration 150, loss: 202.86782836914062
+	Accuracy on 10000 images: 96.71 %
+Iteration 160, loss: 299.33587646484375
+	Accuracy on 10000 images: 96.83 %
+Iteration 170, loss: 296.54217529296875
+	Accuracy on 10000 images: 96.69 %
+Iteration 180, loss: 136.3021240234375
+	Accuracy on 10000 images: 96.54 %
+Iteration 190, loss: 155.9956512451172
+	Accuracy on 10000 images: 96.7 %
+Iteration 200, loss: 301.6658020019531
+	Accuracy on 10000 images: 96.3 %
+Iteration 210, loss: 307.201904296875
+	Accuracy on 10000 images: 96.79 %
+Iteration 220, loss: 112.28975677490234
+	Accuracy on 10000 images: 96.8 %
+Iteration 230, loss: 97.4188461303711
+	Accuracy on 10000 images: 96.5 %
+[tensor([0.9362, 0.9676], requires_grad=True), tensor([0.9810, 1.0000], requires_grad=True), tensor([0.9468, 0.9677], requires_grad=True), tensor([0.9668, 0.9898], requires_grad=True), tensor([0.9434, 0.9678], requires_grad=True), tensor([0.9184, 0.9015], requires_grad=True), tensor([0.9242, 0.9613], requires_grad=True), tensor([0.8825, 0.9279], requires_grad=True), tensor([0.9182, 1.0963], requires_grad=True), tensor([0.9889, 1.0111], requires_grad=True)]
