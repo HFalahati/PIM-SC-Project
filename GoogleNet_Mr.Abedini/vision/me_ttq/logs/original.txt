@@ -1,0 +1,563 @@
+Files already downloaded and verified
+Files already downloaded and verified
+cuda:0
+Epoch [1/50], Step [100/500], Loss: 1.8830
+Test Accuracy of the model on the 10000 test images: 33.96 . Max accuracy is 0 %
+Saving model now!
+Epoch [1/50], Step [200/500], Loss: 1.9855
+Test Accuracy of the model on the 10000 test images: 20.32 . Max accuracy is 33.96 %
+Epoch [1/50], Step [300/500], Loss: 1.9195
+Test Accuracy of the model on the 10000 test images: 22.12 . Max accuracy is 33.96 %
+Epoch [1/50], Step [400/500], Loss: 2.0437
+Test Accuracy of the model on the 10000 test images: 20.84 . Max accuracy is 33.96 %
+Epoch [1/50], Step [500/500], Loss: 1.8804
+Test Accuracy of the model on the 10000 test images: 27.26 . Max accuracy is 33.96 %
+Epoch [2/50], Step [100/500], Loss: 1.8285
+Test Accuracy of the model on the 10000 test images: 26.53 . Max accuracy is 33.96 %
+Epoch [2/50], Step [200/500], Loss: 1.8262
+Test Accuracy of the model on the 10000 test images: 26.28 . Max accuracy is 33.96 %
+Epoch [2/50], Step [300/500], Loss: 1.6616
+Test Accuracy of the model on the 10000 test images: 28.34 . Max accuracy is 33.96 %
+Epoch [2/50], Step [400/500], Loss: 1.7332
+Test Accuracy of the model on the 10000 test images: 27.96 . Max accuracy is 33.96 %
+Epoch [2/50], Step [500/500], Loss: 1.7489
+Test Accuracy of the model on the 10000 test images: 30.14 . Max accuracy is 33.96 %
+Epoch [3/50], Step [100/500], Loss: 1.8184
+Test Accuracy of the model on the 10000 test images: 30.18 . Max accuracy is 33.96 %
+Epoch [3/50], Step [200/500], Loss: 1.7256
+Test Accuracy of the model on the 10000 test images: 31.87 . Max accuracy is 33.96 %
+Epoch [3/50], Step [300/500], Loss: 1.7781
+Test Accuracy of the model on the 10000 test images: 35.72 . Max accuracy is 33.96 %
+Saving model now!
+Epoch [3/50], Step [400/500], Loss: 1.6080
+Test Accuracy of the model on the 10000 test images: 32.49 . Max accuracy is 35.72 %
+Epoch [3/50], Step [500/500], Loss: 1.7608
+Test Accuracy of the model on the 10000 test images: 35.08 . Max accuracy is 35.72 %
+Epoch [4/50], Step [100/500], Loss: 1.6130
+Test Accuracy of the model on the 10000 test images: 35.42 . Max accuracy is 35.72 %
+Epoch [4/50], Step [200/500], Loss: 1.5822
+Test Accuracy of the model on the 10000 test images: 36.81 . Max accuracy is 35.72 %
+Saving model now!
+Epoch [4/50], Step [300/500], Loss: 1.7107
+Test Accuracy of the model on the 10000 test images: 39.95 . Max accuracy is 36.81 %
+Saving model now!
+Epoch [4/50], Step [400/500], Loss: 1.4908
+Test Accuracy of the model on the 10000 test images: 39.16 . Max accuracy is 39.95 %
+Epoch [4/50], Step [500/500], Loss: 1.4379
+Test Accuracy of the model on the 10000 test images: 40.92 . Max accuracy is 39.95 %
+Saving model now!
+Epoch [5/50], Step [100/500], Loss: 1.4539
+Test Accuracy of the model on the 10000 test images: 45.12 . Max accuracy is 40.92 %
+Saving model now!
+Epoch [5/50], Step [200/500], Loss: 1.3335
+Test Accuracy of the model on the 10000 test images: 44.05 . Max accuracy is 45.12 %
+Epoch [5/50], Step [300/500], Loss: 1.3937
+Test Accuracy of the model on the 10000 test images: 41.93 . Max accuracy is 45.12 %
+Epoch [5/50], Step [400/500], Loss: 1.4563
+Test Accuracy of the model on the 10000 test images: 46.23 . Max accuracy is 45.12 %
+Saving model now!
+Epoch [5/50], Step [500/500], Loss: 1.2684
+Test Accuracy of the model on the 10000 test images: 46.74 . Max accuracy is 46.23 %
+Saving model now!
+Epoch [6/50], Step [100/500], Loss: 1.4012
+Test Accuracy of the model on the 10000 test images: 48.25 . Max accuracy is 46.74 %
+Saving model now!
+Epoch [6/50], Step [200/500], Loss: 1.4564
+Test Accuracy of the model on the 10000 test images: 49.62 . Max accuracy is 48.25 %
+Saving model now!
+Epoch [6/50], Step [300/500], Loss: 1.2517
+Test Accuracy of the model on the 10000 test images: 48.18 . Max accuracy is 49.62 %
+Epoch [6/50], Step [400/500], Loss: 1.2700
+Test Accuracy of the model on the 10000 test images: 52.22 . Max accuracy is 49.62 %
+Saving model now!
+Epoch [6/50], Step [500/500], Loss: 1.3220
+Test Accuracy of the model on the 10000 test images: 47.98 . Max accuracy is 52.22 %
+Epoch [7/50], Step [100/500], Loss: 1.2384
+Test Accuracy of the model on the 10000 test images: 53.74 . Max accuracy is 52.22 %
+Saving model now!
+Epoch [7/50], Step [200/500], Loss: 1.2894
+Test Accuracy of the model on the 10000 test images: 52.7 . Max accuracy is 53.74 %
+Epoch [7/50], Step [300/500], Loss: 1.2497
+Test Accuracy of the model on the 10000 test images: 51.31 . Max accuracy is 53.74 %
+Epoch [7/50], Step [400/500], Loss: 1.2101
+Test Accuracy of the model on the 10000 test images: 54.19 . Max accuracy is 53.74 %
+Saving model now!
+Epoch [7/50], Step [500/500], Loss: 1.1031
+Test Accuracy of the model on the 10000 test images: 56.36 . Max accuracy is 54.19 %
+Saving model now!
+Epoch [8/50], Step [100/500], Loss: 1.2714
+Test Accuracy of the model on the 10000 test images: 54.49 . Max accuracy is 56.36 %
+Epoch [8/50], Step [200/500], Loss: 1.2563
+Test Accuracy of the model on the 10000 test images: 55.12 . Max accuracy is 56.36 %
+Epoch [8/50], Step [300/500], Loss: 1.4116
+Test Accuracy of the model on the 10000 test images: 57.77 . Max accuracy is 56.36 %
+Saving model now!
+Epoch [8/50], Step [400/500], Loss: 1.1760
+Test Accuracy of the model on the 10000 test images: 57.15 . Max accuracy is 57.77 %
+Epoch [8/50], Step [500/500], Loss: 1.3283
+Test Accuracy of the model on the 10000 test images: 60.34 . Max accuracy is 57.77 %
+Saving model now!
+Epoch [9/50], Step [100/500], Loss: 0.9928
+Test Accuracy of the model on the 10000 test images: 60.69 . Max accuracy is 60.34 %
+Saving model now!
+Epoch [9/50], Step [200/500], Loss: 1.0749
+Test Accuracy of the model on the 10000 test images: 60.42 . Max accuracy is 60.69 %
+Epoch [9/50], Step [300/500], Loss: 1.2521
+Test Accuracy of the model on the 10000 test images: 61.38 . Max accuracy is 60.69 %
+Saving model now!
+Epoch [9/50], Step [400/500], Loss: 1.3887
+Test Accuracy of the model on the 10000 test images: 61.55 . Max accuracy is 61.38 %
+Saving model now!
+Epoch [9/50], Step [500/500], Loss: 1.1214
+Test Accuracy of the model on the 10000 test images: 61.07 . Max accuracy is 61.55 %
+Epoch [10/50], Step [100/500], Loss: 1.1822
+Test Accuracy of the model on the 10000 test images: 61.32 . Max accuracy is 61.55 %
+Epoch [10/50], Step [200/500], Loss: 1.0872
+Test Accuracy of the model on the 10000 test images: 62.9 . Max accuracy is 61.55 %
+Saving model now!
+Epoch [10/50], Step [300/500], Loss: 1.2620
+Test Accuracy of the model on the 10000 test images: 59.66 . Max accuracy is 62.9 %
+Epoch [10/50], Step [400/500], Loss: 1.1919
+Test Accuracy of the model on the 10000 test images: 62.01 . Max accuracy is 62.9 %
+Epoch [10/50], Step [500/500], Loss: 1.0312
+Test Accuracy of the model on the 10000 test images: 63.8 . Max accuracy is 62.9 %
+Saving model now!
+Epoch [11/50], Step [100/500], Loss: 0.9233
+Test Accuracy of the model on the 10000 test images: 63.81 . Max accuracy is 63.8 %
+Saving model now!
+Epoch [11/50], Step [200/500], Loss: 1.1949
+Test Accuracy of the model on the 10000 test images: 64.23 . Max accuracy is 63.81 %
+Saving model now!
+Epoch [11/50], Step [300/500], Loss: 0.9772
+Test Accuracy of the model on the 10000 test images: 64.36 . Max accuracy is 64.23 %
+Saving model now!
+Epoch [11/50], Step [400/500], Loss: 1.1221
+Test Accuracy of the model on the 10000 test images: 65.01 . Max accuracy is 64.36 %
+Saving model now!
+Epoch [11/50], Step [500/500], Loss: 0.9641
+Test Accuracy of the model on the 10000 test images: 63.13 . Max accuracy is 65.01 %
+Epoch [12/50], Step [100/500], Loss: 1.0939
+Test Accuracy of the model on the 10000 test images: 62.53 . Max accuracy is 65.01 %
+Epoch [12/50], Step [200/500], Loss: 1.2372
+Test Accuracy of the model on the 10000 test images: 64.65 . Max accuracy is 65.01 %
+Epoch [12/50], Step [300/500], Loss: 0.9989
+Test Accuracy of the model on the 10000 test images: 65.76 . Max accuracy is 65.01 %
+Saving model now!
+Epoch [12/50], Step [400/500], Loss: 0.9039
+Test Accuracy of the model on the 10000 test images: 65.83 . Max accuracy is 65.76 %
+Saving model now!
+Epoch [12/50], Step [500/500], Loss: 1.0423
+Test Accuracy of the model on the 10000 test images: 64.21 . Max accuracy is 65.83 %
+Epoch [13/50], Step [100/500], Loss: 0.8173
+Test Accuracy of the model on the 10000 test images: 66.79 . Max accuracy is 65.83 %
+Saving model now!
+Epoch [13/50], Step [200/500], Loss: 1.1956
+Test Accuracy of the model on the 10000 test images: 66.95 . Max accuracy is 66.79 %
+Saving model now!
+Epoch [13/50], Step [300/500], Loss: 0.8682
+Test Accuracy of the model on the 10000 test images: 64.5 . Max accuracy is 66.95 %
+Epoch [13/50], Step [400/500], Loss: 0.8836
+Test Accuracy of the model on the 10000 test images: 67.71 . Max accuracy is 66.95 %
+Saving model now!
+Epoch [13/50], Step [500/500], Loss: 1.0034
+Test Accuracy of the model on the 10000 test images: 68.14 . Max accuracy is 67.71 %
+Saving model now!
+Epoch [14/50], Step [100/500], Loss: 0.8209
+Test Accuracy of the model on the 10000 test images: 67.71 . Max accuracy is 68.14 %
+Epoch [14/50], Step [200/500], Loss: 0.8748
+Test Accuracy of the model on the 10000 test images: 66.84 . Max accuracy is 68.14 %
+Epoch [14/50], Step [300/500], Loss: 1.0082
+Test Accuracy of the model on the 10000 test images: 68.88 . Max accuracy is 68.14 %
+Saving model now!
+Epoch [14/50], Step [400/500], Loss: 1.0259
+Test Accuracy of the model on the 10000 test images: 66.91 . Max accuracy is 68.88 %
+Epoch [14/50], Step [500/500], Loss: 1.0014
+Test Accuracy of the model on the 10000 test images: 66.89 . Max accuracy is 68.88 %
+Epoch [15/50], Step [100/500], Loss: 0.8737
+Test Accuracy of the model on the 10000 test images: 67.53 . Max accuracy is 68.88 %
+Epoch [15/50], Step [200/500], Loss: 1.0382
+Test Accuracy of the model on the 10000 test images: 67.32 . Max accuracy is 68.88 %
+Epoch [15/50], Step [300/500], Loss: 0.8773
+Test Accuracy of the model on the 10000 test images: 68.91 . Max accuracy is 68.88 %
+Saving model now!
+Epoch [15/50], Step [400/500], Loss: 0.7265
+Test Accuracy of the model on the 10000 test images: 69.3 . Max accuracy is 68.91 %
+Saving model now!
+Epoch [15/50], Step [500/500], Loss: 0.9988
+Test Accuracy of the model on the 10000 test images: 70.09 . Max accuracy is 69.3 %
+Saving model now!
+Epoch [16/50], Step [100/500], Loss: 0.7708
+Test Accuracy of the model on the 10000 test images: 68.77 . Max accuracy is 70.09 %
+Epoch [16/50], Step [200/500], Loss: 1.0067
+Test Accuracy of the model on the 10000 test images: 66.71 . Max accuracy is 70.09 %
+Epoch [16/50], Step [300/500], Loss: 1.0775
+Test Accuracy of the model on the 10000 test images: 63.57 . Max accuracy is 70.09 %
+Epoch [16/50], Step [400/500], Loss: 1.0708
+Test Accuracy of the model on the 10000 test images: 66.3 . Max accuracy is 70.09 %
+Epoch [16/50], Step [500/500], Loss: 1.0160
+Test Accuracy of the model on the 10000 test images: 68.81 . Max accuracy is 70.09 %
+Epoch [17/50], Step [100/500], Loss: 0.7307
+Test Accuracy of the model on the 10000 test images: 70.31 . Max accuracy is 70.09 %
+Saving model now!
+Epoch [17/50], Step [200/500], Loss: 0.8674
+Test Accuracy of the model on the 10000 test images: 69.6 . Max accuracy is 70.31 %
+Epoch [17/50], Step [300/500], Loss: 1.1828
+Test Accuracy of the model on the 10000 test images: 70.49 . Max accuracy is 70.31 %
+Saving model now!
+Epoch [17/50], Step [400/500], Loss: 1.0952
+Test Accuracy of the model on the 10000 test images: 69.58 . Max accuracy is 70.49 %
+Epoch [17/50], Step [500/500], Loss: 0.8905
+Test Accuracy of the model on the 10000 test images: 69.26 . Max accuracy is 70.49 %
+Epoch [18/50], Step [100/500], Loss: 0.8436
+Test Accuracy of the model on the 10000 test images: 69.57 . Max accuracy is 70.49 %
+Epoch [18/50], Step [200/500], Loss: 1.0445
+Test Accuracy of the model on the 10000 test images: 66.2 . Max accuracy is 70.49 %
+Epoch [18/50], Step [300/500], Loss: 0.8723
+Test Accuracy of the model on the 10000 test images: 69.03 . Max accuracy is 70.49 %
+Epoch [18/50], Step [400/500], Loss: 1.1014
+Test Accuracy of the model on the 10000 test images: 66.31 . Max accuracy is 70.49 %
+Epoch [18/50], Step [500/500], Loss: 1.0906
+Test Accuracy of the model on the 10000 test images: 69.12 . Max accuracy is 70.49 %
+Epoch [19/50], Step [100/500], Loss: 1.0839
+Test Accuracy of the model on the 10000 test images: 70.82 . Max accuracy is 70.49 %
+Saving model now!
+Epoch [19/50], Step [200/500], Loss: 0.6202
+Test Accuracy of the model on the 10000 test images: 68.49 . Max accuracy is 70.82 %
+Epoch [19/50], Step [300/500], Loss: 0.8090
+Test Accuracy of the model on the 10000 test images: 71.65 . Max accuracy is 70.82 %
+Saving model now!
+Epoch [19/50], Step [400/500], Loss: 0.6699
+Test Accuracy of the model on the 10000 test images: 71.61 . Max accuracy is 71.65 %
+Epoch [19/50], Step [500/500], Loss: 0.8405
+Test Accuracy of the model on the 10000 test images: 70.18 . Max accuracy is 71.65 %
+Epoch [20/50], Step [100/500], Loss: 0.8372
+Test Accuracy of the model on the 10000 test images: 71.2 . Max accuracy is 71.65 %
+Epoch [20/50], Step [200/500], Loss: 0.9060
+Test Accuracy of the model on the 10000 test images: 68.49 . Max accuracy is 71.65 %
+Epoch [20/50], Step [300/500], Loss: 0.6931
+Test Accuracy of the model on the 10000 test images: 72.63 . Max accuracy is 71.65 %
+Saving model now!
+Epoch [20/50], Step [400/500], Loss: 0.8745
+Test Accuracy of the model on the 10000 test images: 72.54 . Max accuracy is 72.63 %
+Epoch [20/50], Step [500/500], Loss: 0.7397
+Test Accuracy of the model on the 10000 test images: 72.33 . Max accuracy is 72.63 %
+Epoch [21/50], Step [100/500], Loss: 1.0084
+Test Accuracy of the model on the 10000 test images: 70.39 . Max accuracy is 72.63 %
+Epoch [21/50], Step [200/500], Loss: 0.7174
+Test Accuracy of the model on the 10000 test images: 71.26 . Max accuracy is 72.63 %
+Epoch [21/50], Step [300/500], Loss: 0.7688
+Test Accuracy of the model on the 10000 test images: 72.46 . Max accuracy is 72.63 %
+Epoch [21/50], Step [400/500], Loss: 0.6172
+Test Accuracy of the model on the 10000 test images: 72.94 . Max accuracy is 72.63 %
+Saving model now!
+Epoch [21/50], Step [500/500], Loss: 0.6972
+Test Accuracy of the model on the 10000 test images: 72.87 . Max accuracy is 72.94 %
+Epoch [22/50], Step [100/500], Loss: 0.6185
+Test Accuracy of the model on the 10000 test images: 71.05 . Max accuracy is 72.94 %
+Epoch [22/50], Step [200/500], Loss: 0.9121
+Test Accuracy of the model on the 10000 test images: 67.14 . Max accuracy is 72.94 %
+Epoch [22/50], Step [300/500], Loss: 0.7329
+Test Accuracy of the model on the 10000 test images: 72.78 . Max accuracy is 72.94 %
+Epoch [22/50], Step [400/500], Loss: 0.7457
+Test Accuracy of the model on the 10000 test images: 71.97 . Max accuracy is 72.94 %
+Epoch [22/50], Step [500/500], Loss: 0.8246
+Test Accuracy of the model on the 10000 test images: 71.65 . Max accuracy is 72.94 %
+Epoch [23/50], Step [100/500], Loss: 0.7713
+Test Accuracy of the model on the 10000 test images: 72.92 . Max accuracy is 72.94 %
+Epoch [23/50], Step [200/500], Loss: 0.8071
+Test Accuracy of the model on the 10000 test images: 72.85 . Max accuracy is 72.94 %
+Epoch [23/50], Step [300/500], Loss: 0.7833
+Test Accuracy of the model on the 10000 test images: 71.4 . Max accuracy is 72.94 %
+Epoch [23/50], Step [400/500], Loss: 0.7310
+Test Accuracy of the model on the 10000 test images: 72.26 . Max accuracy is 72.94 %
+Epoch [23/50], Step [500/500], Loss: 0.8180
+Test Accuracy of the model on the 10000 test images: 72.61 . Max accuracy is 72.94 %
+Epoch [24/50], Step [100/500], Loss: 0.6299
+Test Accuracy of the model on the 10000 test images: 71.58 . Max accuracy is 72.94 %
+Epoch [24/50], Step [200/500], Loss: 0.5662
+Test Accuracy of the model on the 10000 test images: 74.02 . Max accuracy is 72.94 %
+Saving model now!
+Epoch [24/50], Step [300/500], Loss: 0.8697
+Test Accuracy of the model on the 10000 test images: 74.13 . Max accuracy is 74.02 %
+Saving model now!
+Epoch [24/50], Step [400/500], Loss: 0.6564
+Test Accuracy of the model on the 10000 test images: 71.73 . Max accuracy is 74.13 %
+Epoch [24/50], Step [500/500], Loss: 0.6448
+Test Accuracy of the model on the 10000 test images: 72.84 . Max accuracy is 74.13 %
+Epoch [25/50], Step [100/500], Loss: 0.9229
+Test Accuracy of the model on the 10000 test images: 72.98 . Max accuracy is 74.13 %
+Epoch [25/50], Step [200/500], Loss: 0.8951
+Test Accuracy of the model on the 10000 test images: 67.82 . Max accuracy is 74.13 %
+Epoch [25/50], Step [300/500], Loss: 0.6183
+Test Accuracy of the model on the 10000 test images: 74.45 . Max accuracy is 74.13 %
+Saving model now!
+Epoch [25/50], Step [400/500], Loss: 0.7245
+Test Accuracy of the model on the 10000 test images: 73.52 . Max accuracy is 74.45 %
+Epoch [25/50], Step [500/500], Loss: 0.7974
+Test Accuracy of the model on the 10000 test images: 73.1 . Max accuracy is 74.45 %
+Epoch [26/50], Step [100/500], Loss: 0.7975
+Test Accuracy of the model on the 10000 test images: 74.14 . Max accuracy is 74.45 %
+Epoch [26/50], Step [200/500], Loss: 0.9783
+Test Accuracy of the model on the 10000 test images: 69.93 . Max accuracy is 74.45 %
+Epoch [26/50], Step [300/500], Loss: 0.7616
+Test Accuracy of the model on the 10000 test images: 73.19 . Max accuracy is 74.45 %
+Epoch [26/50], Step [400/500], Loss: 0.8150
+Test Accuracy of the model on the 10000 test images: 72.38 . Max accuracy is 74.45 %
+Epoch [26/50], Step [500/500], Loss: 0.8456
+Test Accuracy of the model on the 10000 test images: 74.2 . Max accuracy is 74.45 %
+Epoch [27/50], Step [100/500], Loss: 0.9502
+Test Accuracy of the model on the 10000 test images: 74.8 . Max accuracy is 74.45 %
+Saving model now!
+Epoch [27/50], Step [200/500], Loss: 0.6935
+Test Accuracy of the model on the 10000 test images: 73.68 . Max accuracy is 74.8 %
+Epoch [27/50], Step [300/500], Loss: 1.2954
+Test Accuracy of the model on the 10000 test images: 58.46 . Max accuracy is 74.8 %
+Epoch [27/50], Step [400/500], Loss: 0.7747
+Test Accuracy of the model on the 10000 test images: 73.13 . Max accuracy is 74.8 %
+Epoch [27/50], Step [500/500], Loss: 0.8587
+Test Accuracy of the model on the 10000 test images: 73.45 . Max accuracy is 74.8 %
+Epoch [28/50], Step [100/500], Loss: 0.8970
+Test Accuracy of the model on the 10000 test images: 73.17 . Max accuracy is 74.8 %
+Epoch [28/50], Step [200/500], Loss: 0.8835
+Test Accuracy of the model on the 10000 test images: 72.74 . Max accuracy is 74.8 %
+Epoch [28/50], Step [300/500], Loss: 0.5029
+Test Accuracy of the model on the 10000 test images: 74.87 . Max accuracy is 74.8 %
+Saving model now!
+Epoch [28/50], Step [400/500], Loss: 0.6348
+Test Accuracy of the model on the 10000 test images: 74.95 . Max accuracy is 74.87 %
+Saving model now!
+Epoch [28/50], Step [500/500], Loss: 0.7320
+Test Accuracy of the model on the 10000 test images: 73.34 . Max accuracy is 74.95 %
+Epoch [29/50], Step [100/500], Loss: 0.7503
+Test Accuracy of the model on the 10000 test images: 73.51 . Max accuracy is 74.95 %
+Epoch [29/50], Step [200/500], Loss: 0.5536
+Test Accuracy of the model on the 10000 test images: 75.76 . Max accuracy is 74.95 %
+Saving model now!
+Epoch [29/50], Step [300/500], Loss: 0.7269
+Test Accuracy of the model on the 10000 test images: 74.31 . Max accuracy is 75.76 %
+Epoch [29/50], Step [400/500], Loss: 1.1032
+Test Accuracy of the model on the 10000 test images: 74.96 . Max accuracy is 75.76 %
+Epoch [29/50], Step [500/500], Loss: 0.7794
+Test Accuracy of the model on the 10000 test images: 73.74 . Max accuracy is 75.76 %
+Epoch [30/50], Step [100/500], Loss: 0.6899
+Test Accuracy of the model on the 10000 test images: 76.04 . Max accuracy is 75.76 %
+Saving model now!
+Epoch [30/50], Step [200/500], Loss: 0.6687
+Test Accuracy of the model on the 10000 test images: 75.64 . Max accuracy is 76.04 %
+Epoch [30/50], Step [300/500], Loss: 0.6374
+Test Accuracy of the model on the 10000 test images: 74.94 . Max accuracy is 76.04 %
+Epoch [30/50], Step [400/500], Loss: 0.5552
+Test Accuracy of the model on the 10000 test images: 76.49 . Max accuracy is 76.04 %
+Saving model now!
+Epoch [30/50], Step [500/500], Loss: 0.6818
+Test Accuracy of the model on the 10000 test images: 75.84 . Max accuracy is 76.49 %
+Epoch [31/50], Step [100/500], Loss: 0.7384
+Test Accuracy of the model on the 10000 test images: 75.83 . Max accuracy is 76.49 %
+Epoch [31/50], Step [200/500], Loss: 0.7568
+Test Accuracy of the model on the 10000 test images: 73.35 . Max accuracy is 76.49 %
+Epoch [31/50], Step [300/500], Loss: 0.6701
+Test Accuracy of the model on the 10000 test images: 75.37 . Max accuracy is 76.49 %
+Epoch [31/50], Step [400/500], Loss: 0.7023
+Test Accuracy of the model on the 10000 test images: 75.57 . Max accuracy is 76.49 %
+Epoch [31/50], Step [500/500], Loss: 0.6213
+Test Accuracy of the model on the 10000 test images: 76.06 . Max accuracy is 76.49 %
+Epoch [32/50], Step [100/500], Loss: 0.6495
+Test Accuracy of the model on the 10000 test images: 73.88 . Max accuracy is 76.49 %
+Epoch [32/50], Step [200/500], Loss: 0.8275
+Test Accuracy of the model on the 10000 test images: 74.58 . Max accuracy is 76.49 %
+Epoch [32/50], Step [300/500], Loss: 0.5418
+Test Accuracy of the model on the 10000 test images: 75.09 . Max accuracy is 76.49 %
+Epoch [32/50], Step [400/500], Loss: 0.7996
+Test Accuracy of the model on the 10000 test images: 73.7 . Max accuracy is 76.49 %
+Epoch [32/50], Step [500/500], Loss: 0.6693
+Test Accuracy of the model on the 10000 test images: 74.85 . Max accuracy is 76.49 %
+Epoch [33/50], Step [100/500], Loss: 0.8034
+Test Accuracy of the model on the 10000 test images: 73.62 . Max accuracy is 76.49 %
+Epoch [33/50], Step [200/500], Loss: 0.6487
+Test Accuracy of the model on the 10000 test images: 73.56 . Max accuracy is 76.49 %
+Epoch [33/50], Step [300/500], Loss: 0.6169
+Test Accuracy of the model on the 10000 test images: 75.93 . Max accuracy is 76.49 %
+Epoch [33/50], Step [400/500], Loss: 0.6257
+Test Accuracy of the model on the 10000 test images: 76.37 . Max accuracy is 76.49 %
+Epoch [33/50], Step [500/500], Loss: 0.6919
+Test Accuracy of the model on the 10000 test images: 75.4 . Max accuracy is 76.49 %
+Epoch [34/50], Step [100/500], Loss: 0.5322
+Test Accuracy of the model on the 10000 test images: 75.78 . Max accuracy is 76.49 %
+Epoch [34/50], Step [200/500], Loss: 0.7581
+Test Accuracy of the model on the 10000 test images: 77.25 . Max accuracy is 76.49 %
+Saving model now!
+Epoch [34/50], Step [300/500], Loss: 0.6753
+Test Accuracy of the model on the 10000 test images: 76.23 . Max accuracy is 77.25 %
+Epoch [34/50], Step [400/500], Loss: 0.6174
+Test Accuracy of the model on the 10000 test images: 76.85 . Max accuracy is 77.25 %
+Epoch [34/50], Step [500/500], Loss: 0.7148
+Test Accuracy of the model on the 10000 test images: 72.79 . Max accuracy is 77.25 %
+Epoch [35/50], Step [100/500], Loss: 0.6385
+Test Accuracy of the model on the 10000 test images: 75.42 . Max accuracy is 77.25 %
+Epoch [35/50], Step [200/500], Loss: 0.6807
+Test Accuracy of the model on the 10000 test images: 76.56 . Max accuracy is 77.25 %
+Epoch [35/50], Step [300/500], Loss: 0.7527
+Test Accuracy of the model on the 10000 test images: 75.46 . Max accuracy is 77.25 %
+Epoch [35/50], Step [400/500], Loss: 1.0450
+Test Accuracy of the model on the 10000 test images: 74.16 . Max accuracy is 77.25 %
+Epoch [35/50], Step [500/500], Loss: 0.5315
+Test Accuracy of the model on the 10000 test images: 75.39 . Max accuracy is 77.25 %
+Epoch [36/50], Step [100/500], Loss: 0.6030
+Test Accuracy of the model on the 10000 test images: 76.86 . Max accuracy is 77.25 %
+Epoch [36/50], Step [200/500], Loss: 0.7564
+Test Accuracy of the model on the 10000 test images: 74.57 . Max accuracy is 77.25 %
+Epoch [36/50], Step [300/500], Loss: 0.5077
+Test Accuracy of the model on the 10000 test images: 75.34 . Max accuracy is 77.25 %
+Epoch [36/50], Step [400/500], Loss: 0.5951
+Test Accuracy of the model on the 10000 test images: 76.05 . Max accuracy is 77.25 %
+Epoch [36/50], Step [500/500], Loss: 0.6918
+Test Accuracy of the model on the 10000 test images: 75.24 . Max accuracy is 77.25 %
+Epoch [37/50], Step [100/500], Loss: 0.6892
+Test Accuracy of the model on the 10000 test images: 76.5 . Max accuracy is 77.25 %
+Epoch [37/50], Step [200/500], Loss: 0.6046
+Test Accuracy of the model on the 10000 test images: 76.06 . Max accuracy is 77.25 %
+Epoch [37/50], Step [300/500], Loss: 0.5147
+Test Accuracy of the model on the 10000 test images: 77.54 . Max accuracy is 77.25 %
+Saving model now!
+Epoch [37/50], Step [400/500], Loss: 0.6245
+Test Accuracy of the model on the 10000 test images: 76.0 . Max accuracy is 77.54 %
+Epoch [37/50], Step [500/500], Loss: 0.7595
+Test Accuracy of the model on the 10000 test images: 76.09 . Max accuracy is 77.54 %
+Epoch [38/50], Step [100/500], Loss: 0.6370
+Test Accuracy of the model on the 10000 test images: 76.62 . Max accuracy is 77.54 %
+Epoch [38/50], Step [200/500], Loss: 0.6646
+Test Accuracy of the model on the 10000 test images: 77.18 . Max accuracy is 77.54 %
+Epoch [38/50], Step [300/500], Loss: 0.7018
+Test Accuracy of the model on the 10000 test images: 76.51 . Max accuracy is 77.54 %
+Epoch [38/50], Step [400/500], Loss: 0.3884
+Test Accuracy of the model on the 10000 test images: 76.16 . Max accuracy is 77.54 %
+Epoch [38/50], Step [500/500], Loss: 0.7282
+Test Accuracy of the model on the 10000 test images: 75.84 . Max accuracy is 77.54 %
+Epoch [39/50], Step [100/500], Loss: 0.6550
+Test Accuracy of the model on the 10000 test images: 77.81 . Max accuracy is 77.54 %
+Saving model now!
+Epoch [39/50], Step [200/500], Loss: 0.6445
+Test Accuracy of the model on the 10000 test images: 77.71 . Max accuracy is 77.81 %
+Epoch [39/50], Step [300/500], Loss: 0.6066
+Test Accuracy of the model on the 10000 test images: 77.03 . Max accuracy is 77.81 %
+Epoch [39/50], Step [400/500], Loss: 0.5379
+Test Accuracy of the model on the 10000 test images: 74.11 . Max accuracy is 77.81 %
+Epoch [39/50], Step [500/500], Loss: 0.5350
+Test Accuracy of the model on the 10000 test images: 75.6 . Max accuracy is 77.81 %
+Epoch [40/50], Step [100/500], Loss: 0.8104
+Test Accuracy of the model on the 10000 test images: 73.98 . Max accuracy is 77.81 %
+Epoch [40/50], Step [200/500], Loss: 0.5088
+Test Accuracy of the model on the 10000 test images: 75.91 . Max accuracy is 77.81 %
+Epoch [40/50], Step [300/500], Loss: 0.7487
+Test Accuracy of the model on the 10000 test images: 74.58 . Max accuracy is 77.81 %
+Epoch [40/50], Step [400/500], Loss: 0.8056
+Test Accuracy of the model on the 10000 test images: 73.47 . Max accuracy is 77.81 %
+Epoch [40/50], Step [500/500], Loss: 0.5925
+Test Accuracy of the model on the 10000 test images: 76.53 . Max accuracy is 77.81 %
+Epoch [41/50], Step [100/500], Loss: 0.5555
+Test Accuracy of the model on the 10000 test images: 76.39 . Max accuracy is 77.81 %
+Epoch [41/50], Step [200/500], Loss: 0.9707
+Test Accuracy of the model on the 10000 test images: 71.5 . Max accuracy is 77.81 %
+Epoch [41/50], Step [300/500], Loss: 0.4685
+Test Accuracy of the model on the 10000 test images: 75.37 . Max accuracy is 77.81 %
+Epoch [41/50], Step [400/500], Loss: 0.4909
+Test Accuracy of the model on the 10000 test images: 76.92 . Max accuracy is 77.81 %
+Epoch [41/50], Step [500/500], Loss: 0.5412
+Test Accuracy of the model on the 10000 test images: 76.76 . Max accuracy is 77.81 %
+Epoch [42/50], Step [100/500], Loss: 0.7188
+Test Accuracy of the model on the 10000 test images: 77.2 . Max accuracy is 77.81 %
+Epoch [42/50], Step [200/500], Loss: 0.6419
+Test Accuracy of the model on the 10000 test images: 77.93 . Max accuracy is 77.81 %
+Saving model now!
+Epoch [42/50], Step [300/500], Loss: 0.7172
+Test Accuracy of the model on the 10000 test images: 77.9 . Max accuracy is 77.93 %
+Epoch [42/50], Step [400/500], Loss: 0.8334
+Test Accuracy of the model on the 10000 test images: 77.08 . Max accuracy is 77.93 %
+Epoch [42/50], Step [500/500], Loss: 0.5751
+Test Accuracy of the model on the 10000 test images: 78.07 . Max accuracy is 77.93 %
+Saving model now!
+Epoch [43/50], Step [100/500], Loss: 0.5621
+Test Accuracy of the model on the 10000 test images: 77.85 . Max accuracy is 78.07 %
+Epoch [43/50], Step [200/500], Loss: 0.5532
+Test Accuracy of the model on the 10000 test images: 78.1 . Max accuracy is 78.07 %
+Saving model now!
+Epoch [43/50], Step [300/500], Loss: 0.5787
+Test Accuracy of the model on the 10000 test images: 78.26 . Max accuracy is 78.1 %
+Saving model now!
+Epoch [43/50], Step [400/500], Loss: 0.7641
+Test Accuracy of the model on the 10000 test images: 77.4 . Max accuracy is 78.26 %
+Epoch [43/50], Step [500/500], Loss: 0.7693
+Test Accuracy of the model on the 10000 test images: 76.38 . Max accuracy is 78.26 %
+Epoch [44/50], Step [100/500], Loss: 0.6745
+Test Accuracy of the model on the 10000 test images: 75.96 . Max accuracy is 78.26 %
+Epoch [44/50], Step [200/500], Loss: 0.6764
+Test Accuracy of the model on the 10000 test images: 76.07 . Max accuracy is 78.26 %
+Epoch [44/50], Step [300/500], Loss: 0.4838
+Test Accuracy of the model on the 10000 test images: 77.57 . Max accuracy is 78.26 %
+Epoch [44/50], Step [400/500], Loss: 0.6277
+Test Accuracy of the model on the 10000 test images: 75.72 . Max accuracy is 78.26 %
+Epoch [44/50], Step [500/500], Loss: 0.6831
+Test Accuracy of the model on the 10000 test images: 77.4 . Max accuracy is 78.26 %
+Epoch [45/50], Step [100/500], Loss: 0.5526
+Test Accuracy of the model on the 10000 test images: 77.26 . Max accuracy is 78.26 %
+Epoch [45/50], Step [200/500], Loss: 0.5605
+Test Accuracy of the model on the 10000 test images: 78.12 . Max accuracy is 78.26 %
+Epoch [45/50], Step [300/500], Loss: 0.6197
+Test Accuracy of the model on the 10000 test images: 77.54 . Max accuracy is 78.26 %
+Epoch [45/50], Step [400/500], Loss: 0.7545
+Test Accuracy of the model on the 10000 test images: 77.32 . Max accuracy is 78.26 %
+Epoch [45/50], Step [500/500], Loss: 0.6530
+Test Accuracy of the model on the 10000 test images: 77.75 . Max accuracy is 78.26 %
+Epoch [46/50], Step [100/500], Loss: 0.5222
+Test Accuracy of the model on the 10000 test images: 78.51 . Max accuracy is 78.26 %
+Saving model now!
+Epoch [46/50], Step [200/500], Loss: 0.7470
+Test Accuracy of the model on the 10000 test images: 76.31 . Max accuracy is 78.51 %
+Epoch [46/50], Step [300/500], Loss: 0.8201
+Test Accuracy of the model on the 10000 test images: 74.34 . Max accuracy is 78.51 %
+Epoch [46/50], Step [400/500], Loss: 0.5757
+Test Accuracy of the model on the 10000 test images: 75.96 . Max accuracy is 78.51 %
+Epoch [46/50], Step [500/500], Loss: 0.6334
+Test Accuracy of the model on the 10000 test images: 77.35 . Max accuracy is 78.51 %
+Epoch [47/50], Step [100/500], Loss: 0.5949
+Test Accuracy of the model on the 10000 test images: 77.92 . Max accuracy is 78.51 %
+Epoch [47/50], Step [200/500], Loss: 0.5587
+Test Accuracy of the model on the 10000 test images: 75.84 . Max accuracy is 78.51 %
+Epoch [47/50], Step [300/500], Loss: 0.5846
+Test Accuracy of the model on the 10000 test images: 75.44 . Max accuracy is 78.51 %
+Epoch [47/50], Step [400/500], Loss: 0.6819
+Test Accuracy of the model on the 10000 test images: 76.85 . Max accuracy is 78.51 %
+Epoch [47/50], Step [500/500], Loss: 0.6548
+Test Accuracy of the model on the 10000 test images: 76.31 . Max accuracy is 78.51 %
+Epoch [48/50], Step [100/500], Loss: 0.5660
+Test Accuracy of the model on the 10000 test images: 78.77 . Max accuracy is 78.51 %
+Saving model now!
+Epoch [48/50], Step [200/500], Loss: 0.4352
+Test Accuracy of the model on the 10000 test images: 78.04 . Max accuracy is 78.77 %
+Epoch [48/50], Step [300/500], Loss: 0.6410
+Test Accuracy of the model on the 10000 test images: 79.25 . Max accuracy is 78.77 %
+Saving model now!
+Epoch [48/50], Step [400/500], Loss: 0.4206
+Test Accuracy of the model on the 10000 test images: 78.93 . Max accuracy is 79.25 %
+Epoch [48/50], Step [500/500], Loss: 0.5568
+Test Accuracy of the model on the 10000 test images: 78.92 . Max accuracy is 79.25 %
+Epoch [49/50], Step [100/500], Loss: 0.7373
+Test Accuracy of the model on the 10000 test images: 77.33 . Max accuracy is 79.25 %
+Epoch [49/50], Step [200/500], Loss: 0.7254
+Test Accuracy of the model on the 10000 test images: 77.83 . Max accuracy is 79.25 %
+Epoch [49/50], Step [300/500], Loss: 0.4677
+Test Accuracy of the model on the 10000 test images: 78.0 . Max accuracy is 79.25 %
+Epoch [49/50], Step [400/500], Loss: 0.8733
+Test Accuracy of the model on the 10000 test images: 76.54 . Max accuracy is 79.25 %
+Epoch [49/50], Step [500/500], Loss: 0.5425
+Test Accuracy of the model on the 10000 test images: 76.59 . Max accuracy is 79.25 %
+Epoch [50/50], Step [100/500], Loss: 0.5635
+Test Accuracy of the model on the 10000 test images: 78.85 . Max accuracy is 79.25 %
+Epoch [50/50], Step [200/500], Loss: 0.6087
+Test Accuracy of the model on the 10000 test images: 78.97 . Max accuracy is 79.25 %
+Epoch [50/50], Step [300/500], Loss: 0.5227
+Test Accuracy of the model on the 10000 test images: 77.87 . Max accuracy is 79.25 %
+Epoch [50/50], Step [400/500], Loss: 0.6662
+Test Accuracy of the model on the 10000 test images: 78.05 . Max accuracy is 79.25 %
+Epoch [50/50], Step [500/500], Loss: 0.8255
+Test Accuracy of the model on the 10000 test images: 76.76 . Max accuracy is 79.25 %

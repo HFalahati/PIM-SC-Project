@@ -2,21 +2,27 @@ import os
 import torch
 import torch.nn as nn
 
+from model import *
 from model import model_to_quantify, device
 from data import train_loader, test_loader
 from quantification import quantize, get_quantization_grads
 
 criterion = nn.CrossEntropyLoss()
-num_epochs = 2
+num_epochs = 15
+
+
+accs=[0]
 
 # load model with full precision trained weights
 # dirname = os.path.dirname(__file__)
 # dirname = os.path.join(dirname, 'weights')
 # weightname = os.path.join(dirname, '{}.ckpt'.format('original'))
-weightname = r"E:\pc\uni\PamResearch\6th\TGP Dr.Fazeli\new\vision-master\me_ttq\weights\original.ckpt"
+weightname = "weights/original.ckpt"
+# model_to_quantify.load_state_dict(torch.load(weightname, map_location=device))
 model_to_quantify.load_state_dict(torch.load(weightname, map_location='cpu'))
 
 # create a list of parameters that need to be quantized
+#extra
 '''
 Model parameter names and parameter sizes:
 [('layer1.0.weight', torch.Size([16, 1, 5, 5])),
@@ -77,13 +83,13 @@ def train():
         loss.backward()
 
         for index, weight in enumerate(weights_to_be_quantized):
-            if weight.grad is not None:
-                w_p, w_n = scaling_factors[index]
-                full_precision_data = full_precision_copies[index].data
-                full_precision_grad, w_p_grad, w_n_grad = get_quantization_grads(weight.grad.data, full_precision_data, w_p.item(), w_n.item())
-                full_precision_copies[index].grad = full_precision_grad.to(device)
-                scaling_factors[index].grad = torch.FloatTensor([w_p_grad, w_n_grad]).to(device)
-                weight.grad.data.zero_()
+            # if weight.grad is not None:
+            w_p, w_n = scaling_factors[index]
+            full_precision_data = full_precision_copies[index].data
+            full_precision_grad, w_p_grad, w_n_grad = get_quantization_grads(weight.grad.data, full_precision_data, w_p.item(), w_n.item())
+            full_precision_copies[index].grad = full_precision_grad.to(device)
+            scaling_factors[index].grad = torch.FloatTensor([w_p_grad, w_n_grad]).to(device)
+            weight.grad.data.zero_()
 
         if (i+1) % 10 == 0:
             print('Iteration {}, loss: {}'.format(i+1, loss.item()))
@@ -107,10 +113,12 @@ def test():
             total += labels.size(0)
             correct += (predicted == labels).sum().item()
         accuracy = 100 * correct / total
-        if accuracy >= 98.4:
+        if accuracy >= max(accs):
+
+            accs.append(accuracy)
             print('Saving model now!')
             save_model()
-        print('\tAccuracy on 10000 images: {} %'.format(accuracy))
+        print('\tAccuracy on 10000 images: {} . Max accuracy is {}%'.format(accuracy,max(accs)))
 
 def save_model(model = model_to_quantify):
     dirname = os.path.dirname(__file__)
@@ -119,6 +127,7 @@ def save_model(model = model_to_quantify):
     torch.save(model.state_dict(), weightname)
 
 if __name__ == '__main__':
+    print(device)
     assert full_precision_copies[0].requires_grad is True
     assert len(weights_to_be_quantized) == len(scaling_factors)
     assert len(weights_to_be_quantized) == len(full_precision_copies)

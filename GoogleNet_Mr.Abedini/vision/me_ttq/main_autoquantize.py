@@ -7,7 +7,7 @@ from data import train_loader, test_loader
 
 criterion = nn.CrossEntropyLoss()
 optimizer = torch.optim.SGD(model_auto.parameters(), lr=1.0)
-num_epochs = 2
+num_epochs = 50
 
 def quantize_params(model = model_auto):
     for n,p in model.named_parameters():

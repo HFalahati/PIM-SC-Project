@@ -2,13 +2,15 @@ import os
 import torch
 import torch.nn as nn
 
+from model import *
 from model import model_full, device
 from data import train_loader, test_loader
 
 criterion = nn.CrossEntropyLoss()
 optimizer = torch.optim.Adam(model_full.parameters(), lr=0.001)
-num_epochs = 1
+num_epochs = 50
 
+accs=[0]
 
 def train(model=model_full):
     total_step = len(train_loader)
@@ -30,6 +32,13 @@ def train(model=model_full):
             if (i+1) % 100 == 0:
                 print ('Epoch [{}/{}], Step [{}/{}], Loss: {:.4f}'
                     .format(epoch+1, num_epochs, i+1, total_step, loss.item()))
+                accuracy = test()
+                print('Test Accuracy of the model on the 10000 test images: {} . Max accuracy is {} %'.format(accuracy,max(accs)))
+
+                if accuracy >= max(accs):
+                    accs.append(accuracy)
+                    print('Saving model now!')
+                    save_model()
 
 
 def test(model=model_full):
@@ -45,8 +54,7 @@ def test(model=model_full):
             total += labels.size(0)
             correct += (predicted == labels).sum().item()
 
-        print('Test Accuracy of the model on the 10000 test images: {} %'.format(100 * correct / total))
-
+        return 100 * correct / total
 
 def save_model(model=model_full):
     dirname = os.path.dirname(__file__)
@@ -56,6 +64,7 @@ def save_model(model=model_full):
 
 
 if __name__ == '__main__':
+    print(device)
     train()
-    test()
-    save_model()
+    # test()
+    # save_model()
