@@ -1,0 +1,788 @@
+Files already downloaded and verified
+Files already downloaded and verified
+cpu
+=== Epoch 0 ===
+Iteration 10, loss: 4.583308219909668
+Saving model now!
+	Accuracy on 10000 images: 12.63 . Max accuracy is 12.63%
+Iteration 20, loss: 2.2240002155303955
+Saving model now!
+	Accuracy on 10000 images: 18.43 . Max accuracy is 18.43%
+Iteration 30, loss: 2.1137194633483887
+Saving model now!
+	Accuracy on 10000 images: 19.23 . Max accuracy is 19.23%
+Iteration 40, loss: 1.9494575262069702
+Saving model now!
+	Accuracy on 10000 images: 22.75 . Max accuracy is 22.75%
+Iteration 50, loss: 1.983310580253601
+	Accuracy on 10000 images: 20.88 . Max accuracy is 22.75%
+Iteration 60, loss: 1.898057222366333
+Saving model now!
+	Accuracy on 10000 images: 24.1 . Max accuracy is 24.1%
+Iteration 70, loss: 1.8895105123519897
+	Accuracy on 10000 images: 23.5 . Max accuracy is 24.1%
+Iteration 80, loss: 1.9100667238235474
+Saving model now!
+	Accuracy on 10000 images: 28.36 . Max accuracy is 28.36%
+Iteration 90, loss: 1.702874779701233
+Saving model now!
+	Accuracy on 10000 images: 36.46 . Max accuracy is 36.46%
+Iteration 100, loss: 1.6433273553848267
+	Accuracy on 10000 images: 34.83 . Max accuracy is 36.46%
+Iteration 110, loss: 1.6561208963394165
+Saving model now!
+	Accuracy on 10000 images: 39.98 . Max accuracy is 39.98%
+Iteration 120, loss: 1.5993752479553223
+	Accuracy on 10000 images: 38.85 . Max accuracy is 39.98%
+Iteration 130, loss: 1.5055644512176514
+Saving model now!
+	Accuracy on 10000 images: 42.7 . Max accuracy is 42.7%
+Iteration 140, loss: 1.6926217079162598
+	Accuracy on 10000 images: 40.7 . Max accuracy is 42.7%
+Iteration 150, loss: 1.743106484413147
+	Accuracy on 10000 images: 39.52 . Max accuracy is 42.7%
+Iteration 160, loss: 1.522377610206604
+	Accuracy on 10000 images: 41.01 . Max accuracy is 42.7%
+Iteration 170, loss: 1.2158883810043335
+Saving model now!
+	Accuracy on 10000 images: 49.24 . Max accuracy is 49.24%
+Iteration 180, loss: 1.5638031959533691
+	Accuracy on 10000 images: 46.8 . Max accuracy is 49.24%
+Iteration 190, loss: 1.3624582290649414
+	Accuracy on 10000 images: 48.54 . Max accuracy is 49.24%
+Iteration 200, loss: 1.4620229005813599
+Saving model now!
+	Accuracy on 10000 images: 49.55 . Max accuracy is 49.55%
+Iteration 210, loss: 1.2885360717773438
+Saving model now!
+	Accuracy on 10000 images: 52.86 . Max accuracy is 52.86%
+Iteration 220, loss: 1.3763113021850586
+Saving model now!
+	Accuracy on 10000 images: 56.07 . Max accuracy is 56.07%
+Iteration 230, loss: 1.3643113374710083
+	Accuracy on 10000 images: 55.0 . Max accuracy is 56.07%
+Iteration 240, loss: 1.3243783712387085
+Saving model now!
+	Accuracy on 10000 images: 58.25 . Max accuracy is 58.25%
+Iteration 250, loss: 1.2209155559539795
+Saving model now!
+	Accuracy on 10000 images: 59.88 . Max accuracy is 59.88%
+Iteration 260, loss: 1.155800461769104
+	Accuracy on 10000 images: 57.5 . Max accuracy is 59.88%
+Iteration 270, loss: 1.3170228004455566
+	Accuracy on 10000 images: 59.57 . Max accuracy is 59.88%
+Iteration 280, loss: 1.202804684638977
+Saving model now!
+	Accuracy on 10000 images: 61.27 . Max accuracy is 61.27%
+Iteration 290, loss: 1.0444512367248535
+Saving model now!
+	Accuracy on 10000 images: 61.51 . Max accuracy is 61.51%
+Iteration 300, loss: 1.1973271369934082
+	Accuracy on 10000 images: 59.17 . Max accuracy is 61.51%
+Iteration 310, loss: 1.365880012512207
+	Accuracy on 10000 images: 59.65 . Max accuracy is 61.51%
+Iteration 320, loss: 1.2043936252593994
+	Accuracy on 10000 images: 59.24 . Max accuracy is 61.51%
+Iteration 330, loss: 1.210453748703003
+Saving model now!
+	Accuracy on 10000 images: 61.58 . Max accuracy is 61.58%
+Iteration 340, loss: 0.9609094858169556
+Saving model now!
+	Accuracy on 10000 images: 64.21 . Max accuracy is 64.21%
+Iteration 350, loss: 1.2276365756988525
+	Accuracy on 10000 images: 61.3 . Max accuracy is 64.21%
+Iteration 360, loss: 1.2839906215667725
+	Accuracy on 10000 images: 63.43 . Max accuracy is 64.21%
+Iteration 370, loss: 0.9323446750640869
+	Accuracy on 10000 images: 63.04 . Max accuracy is 64.21%
+Iteration 380, loss: 0.9439583420753479
+Saving model now!
+	Accuracy on 10000 images: 64.9 . Max accuracy is 64.9%
+Iteration 390, loss: 1.1234108209609985
+	Accuracy on 10000 images: 63.16 . Max accuracy is 64.9%
+Iteration 400, loss: 1.2071930170059204
+	Accuracy on 10000 images: 61.38 . Max accuracy is 64.9%
+Iteration 410, loss: 1.2637370824813843
+	Accuracy on 10000 images: 64.55 . Max accuracy is 64.9%
+Iteration 420, loss: 1.1722508668899536
+	Accuracy on 10000 images: 64.65 . Max accuracy is 64.9%
+Iteration 430, loss: 1.161633014678955
+	Accuracy on 10000 images: 64.4 . Max accuracy is 64.9%
+Iteration 440, loss: 0.8987365961074829
+Saving model now!
+	Accuracy on 10000 images: 66.02 . Max accuracy is 66.02%
+Iteration 450, loss: 1.0602670907974243
+Saving model now!
+	Accuracy on 10000 images: 66.78 . Max accuracy is 66.78%
+Iteration 460, loss: 0.7896082997322083
+	Accuracy on 10000 images: 65.85 . Max accuracy is 66.78%
+Iteration 470, loss: 1.1416774988174438
+	Accuracy on 10000 images: 62.37 . Max accuracy is 66.78%
+Iteration 480, loss: 1.094360113143921
+	Accuracy on 10000 images: 63.17 . Max accuracy is 66.78%
+Iteration 490, loss: 1.1522021293640137
+	Accuracy on 10000 images: 65.53 . Max accuracy is 66.78%
+Iteration 500, loss: 0.9248926043510437
+Saving model now!
+	Accuracy on 10000 images: 67.17 . Max accuracy is 67.17%
+=== Epoch 1 ===
+Iteration 10, loss: 1.1393133401870728
+	Accuracy on 10000 images: 65.44 . Max accuracy is 67.17%
+Iteration 20, loss: 0.7636424899101257
+Saving model now!
+	Accuracy on 10000 images: 68.03 . Max accuracy is 68.03%
+Iteration 30, loss: 1.170578122138977
+	Accuracy on 10000 images: 67.14 . Max accuracy is 68.03%
+Iteration 40, loss: 1.1253831386566162
+	Accuracy on 10000 images: 67.63 . Max accuracy is 68.03%
+Iteration 50, loss: 1.000133752822876
+	Accuracy on 10000 images: 65.61 . Max accuracy is 68.03%
+Iteration 60, loss: 0.9672260880470276
+	Accuracy on 10000 images: 66.88 . Max accuracy is 68.03%
+Iteration 70, loss: 0.9333308339118958
+	Accuracy on 10000 images: 67.95 . Max accuracy is 68.03%
+Iteration 80, loss: 0.9062106609344482
+Saving model now!
+	Accuracy on 10000 images: 69.56 . Max accuracy is 69.56%
+Iteration 90, loss: 0.8960205316543579
+	Accuracy on 10000 images: 65.46 . Max accuracy is 69.56%
+Iteration 100, loss: 0.9889495372772217
+	Accuracy on 10000 images: 67.36 . Max accuracy is 69.56%
+Iteration 110, loss: 0.8862044811248779
+	Accuracy on 10000 images: 67.24 . Max accuracy is 69.56%
+Iteration 120, loss: 1.210910677909851
+	Accuracy on 10000 images: 65.54 . Max accuracy is 69.56%
+Iteration 130, loss: 0.9522607922554016
+	Accuracy on 10000 images: 68.54 . Max accuracy is 69.56%
+Iteration 140, loss: 0.8431355357170105
+	Accuracy on 10000 images: 68.83 . Max accuracy is 69.56%
+Iteration 150, loss: 1.1000579595565796
+	Accuracy on 10000 images: 66.28 . Max accuracy is 69.56%
+Iteration 160, loss: 1.1263149976730347
+	Accuracy on 10000 images: 65.49 . Max accuracy is 69.56%
+Iteration 170, loss: 0.9466688632965088
+	Accuracy on 10000 images: 69.03 . Max accuracy is 69.56%
+Iteration 180, loss: 1.0178227424621582
+	Accuracy on 10000 images: 68.08 . Max accuracy is 69.56%
+Iteration 190, loss: 0.8714249134063721
+	Accuracy on 10000 images: 67.86 . Max accuracy is 69.56%
+Iteration 200, loss: 0.9408503770828247
+	Accuracy on 10000 images: 67.78 . Max accuracy is 69.56%
+Iteration 210, loss: 1.0668611526489258
+	Accuracy on 10000 images: 66.78 . Max accuracy is 69.56%
+Iteration 220, loss: 0.9020782709121704
+	Accuracy on 10000 images: 68.78 . Max accuracy is 69.56%
+Iteration 230, loss: 0.8824552297592163
+Saving model now!
+	Accuracy on 10000 images: 69.66 . Max accuracy is 69.66%
+Iteration 240, loss: 1.0256019830703735
+	Accuracy on 10000 images: 69.35 . Max accuracy is 69.66%
+Iteration 250, loss: 1.1377002000808716
+	Accuracy on 10000 images: 68.64 . Max accuracy is 69.66%
+Iteration 260, loss: 0.748273491859436
+	Accuracy on 10000 images: 69.43 . Max accuracy is 69.66%
+Iteration 270, loss: 1.03290855884552
+	Accuracy on 10000 images: 68.02 . Max accuracy is 69.66%
+Iteration 280, loss: 0.9362127780914307
+	Accuracy on 10000 images: 67.94 . Max accuracy is 69.66%
+Iteration 290, loss: 0.7744945287704468
+Saving model now!
+	Accuracy on 10000 images: 69.8 . Max accuracy is 69.8%
+Iteration 300, loss: 1.065891146659851
+	Accuracy on 10000 images: 62.34 . Max accuracy is 69.8%
+Iteration 310, loss: 0.942371666431427
+	Accuracy on 10000 images: 67.46 . Max accuracy is 69.8%
+Iteration 320, loss: 1.0596845149993896
+	Accuracy on 10000 images: 63.6 . Max accuracy is 69.8%
+Iteration 330, loss: 1.011934518814087
+	Accuracy on 10000 images: 66.82 . Max accuracy is 69.8%
+Iteration 340, loss: 1.0739015340805054
+	Accuracy on 10000 images: 66.78 . Max accuracy is 69.8%
+Iteration 350, loss: 1.1371389627456665
+	Accuracy on 10000 images: 67.78 . Max accuracy is 69.8%
+Iteration 360, loss: 1.129310131072998
+	Accuracy on 10000 images: 65.33 . Max accuracy is 69.8%
+Iteration 370, loss: 0.863536536693573
+	Accuracy on 10000 images: 65.87 . Max accuracy is 69.8%
+Iteration 380, loss: 0.850786030292511
+Saving model now!
+	Accuracy on 10000 images: 70.01 . Max accuracy is 70.01%
+Iteration 390, loss: 1.1757904291152954
+	Accuracy on 10000 images: 64.84 . Max accuracy is 70.01%
+Iteration 400, loss: 1.1623954772949219
+	Accuracy on 10000 images: 66.07 . Max accuracy is 70.01%
+Iteration 410, loss: 0.7806267738342285
+	Accuracy on 10000 images: 69.37 . Max accuracy is 70.01%
+Iteration 420, loss: 1.0054551362991333
+	Accuracy on 10000 images: 68.13 . Max accuracy is 70.01%
+Iteration 430, loss: 0.8882683515548706
+	Accuracy on 10000 images: 67.32 . Max accuracy is 70.01%
+Iteration 440, loss: 1.3069005012512207
+	Accuracy on 10000 images: 68.41 . Max accuracy is 70.01%
+Iteration 450, loss: 0.8621575236320496
+	Accuracy on 10000 images: 68.44 . Max accuracy is 70.01%
+Iteration 460, loss: 0.8864433765411377
+	Accuracy on 10000 images: 68.99 . Max accuracy is 70.01%
+Iteration 470, loss: 0.9354398250579834
+Saving model now!
+	Accuracy on 10000 images: 70.03 . Max accuracy is 70.03%
+Iteration 480, loss: 0.8775705099105835
+	Accuracy on 10000 images: 68.21 . Max accuracy is 70.03%
+Iteration 490, loss: 1.14765202999115
+	Accuracy on 10000 images: 67.99 . Max accuracy is 70.03%
+Iteration 500, loss: 1.0545661449432373
+	Accuracy on 10000 images: 66.72 . Max accuracy is 70.03%
+=== Epoch 2 ===
+Iteration 10, loss: 1.1655001640319824
+	Accuracy on 10000 images: 68.29 . Max accuracy is 70.03%
+Iteration 20, loss: 1.03928542137146
+	Accuracy on 10000 images: 67.11 . Max accuracy is 70.03%
+Iteration 30, loss: 1.138662576675415
+	Accuracy on 10000 images: 68.06 . Max accuracy is 70.03%
+Iteration 40, loss: 1.2099531888961792
+	Accuracy on 10000 images: 66.38 . Max accuracy is 70.03%
+Iteration 50, loss: 0.8804888725280762
+	Accuracy on 10000 images: 68.6 . Max accuracy is 70.03%
+Iteration 60, loss: 0.8104888796806335
+Saving model now!
+	Accuracy on 10000 images: 71.82 . Max accuracy is 71.82%
+Iteration 70, loss: 0.7697418928146362
+	Accuracy on 10000 images: 68.81 . Max accuracy is 71.82%
+Iteration 80, loss: 1.1694966554641724
+	Accuracy on 10000 images: 69.4 . Max accuracy is 71.82%
+Iteration 90, loss: 0.8751330375671387
+	Accuracy on 10000 images: 68.11 . Max accuracy is 71.82%
+Iteration 100, loss: 0.9603829383850098
+	Accuracy on 10000 images: 67.39 . Max accuracy is 71.82%
+Iteration 110, loss: 0.9934966564178467
+	Accuracy on 10000 images: 69.71 . Max accuracy is 71.82%
+Iteration 120, loss: 0.8840318918228149
+	Accuracy on 10000 images: 69.81 . Max accuracy is 71.82%
+Iteration 130, loss: 0.8484158515930176
+	Accuracy on 10000 images: 67.85 . Max accuracy is 71.82%
+Iteration 140, loss: 1.123513102531433
+	Accuracy on 10000 images: 66.14 . Max accuracy is 71.82%
+Iteration 150, loss: 0.9570735096931458
+	Accuracy on 10000 images: 66.54 . Max accuracy is 71.82%
+Iteration 160, loss: 0.9718369841575623
+	Accuracy on 10000 images: 65.55 . Max accuracy is 71.82%
+Iteration 170, loss: 0.8928070068359375
+	Accuracy on 10000 images: 67.93 . Max accuracy is 71.82%
+Iteration 180, loss: 0.771513819694519
+	Accuracy on 10000 images: 70.58 . Max accuracy is 71.82%
+Iteration 190, loss: 1.2984859943389893
+	Accuracy on 10000 images: 64.87 . Max accuracy is 71.82%
+Iteration 200, loss: 1.0597202777862549
+	Accuracy on 10000 images: 69.33 . Max accuracy is 71.82%
+Iteration 210, loss: 0.9697275757789612
+	Accuracy on 10000 images: 68.12 . Max accuracy is 71.82%
+Iteration 220, loss: 0.9193231463432312
+	Accuracy on 10000 images: 67.92 . Max accuracy is 71.82%
+Iteration 230, loss: 0.9243724346160889
+	Accuracy on 10000 images: 69.93 . Max accuracy is 71.82%
+Iteration 240, loss: 0.6977180242538452
+	Accuracy on 10000 images: 69.76 . Max accuracy is 71.82%
+Iteration 250, loss: 0.8844321966171265
+	Accuracy on 10000 images: 68.14 . Max accuracy is 71.82%
+Iteration 260, loss: 1.181847333908081
+	Accuracy on 10000 images: 64.75 . Max accuracy is 71.82%
+Iteration 270, loss: 0.7989423274993896
+	Accuracy on 10000 images: 69.15 . Max accuracy is 71.82%
+Iteration 280, loss: 1.1591861248016357
+	Accuracy on 10000 images: 69.32 . Max accuracy is 71.82%
+Iteration 290, loss: 0.7174063920974731
+	Accuracy on 10000 images: 70.32 . Max accuracy is 71.82%
+Iteration 300, loss: 0.9401443004608154
+	Accuracy on 10000 images: 69.3 . Max accuracy is 71.82%
+Iteration 310, loss: 0.9087663888931274
+	Accuracy on 10000 images: 67.02 . Max accuracy is 71.82%
+Iteration 320, loss: 0.9962724447250366
+	Accuracy on 10000 images: 68.28 . Max accuracy is 71.82%
+Iteration 330, loss: 0.8214477300643921
+	Accuracy on 10000 images: 68.17 . Max accuracy is 71.82%
+Iteration 340, loss: 0.8307181000709534
+	Accuracy on 10000 images: 69.65 . Max accuracy is 71.82%
+Iteration 350, loss: 1.0180423259735107
+	Accuracy on 10000 images: 71.19 . Max accuracy is 71.82%
+Iteration 360, loss: 0.7059811949729919
+	Accuracy on 10000 images: 69.22 . Max accuracy is 71.82%
+Iteration 370, loss: 1.1299748420715332
+	Accuracy on 10000 images: 69.7 . Max accuracy is 71.82%
+Iteration 380, loss: 1.0801290273666382
+	Accuracy on 10000 images: 66.8 . Max accuracy is 71.82%
+Iteration 390, loss: 0.7081984877586365
+	Accuracy on 10000 images: 69.71 . Max accuracy is 71.82%
+Iteration 400, loss: 0.8678611516952515
+	Accuracy on 10000 images: 67.04 . Max accuracy is 71.82%
+Iteration 410, loss: 1.0942937135696411
+	Accuracy on 10000 images: 66.39 . Max accuracy is 71.82%
+Iteration 420, loss: 1.0593609809875488
+	Accuracy on 10000 images: 65.38 . Max accuracy is 71.82%
+Iteration 430, loss: 0.8362472057342529
+	Accuracy on 10000 images: 69.57 . Max accuracy is 71.82%
+Iteration 440, loss: 0.8510447144508362
+	Accuracy on 10000 images: 68.29 . Max accuracy is 71.82%
+Iteration 450, loss: 0.9225491881370544
+	Accuracy on 10000 images: 70.33 . Max accuracy is 71.82%
+Iteration 460, loss: 0.9072985649108887
+	Accuracy on 10000 images: 65.43 . Max accuracy is 71.82%
+Iteration 470, loss: 1.1201798915863037
+	Accuracy on 10000 images: 70.89 . Max accuracy is 71.82%
+Iteration 480, loss: 0.9912285804748535
+	Accuracy on 10000 images: 67.81 . Max accuracy is 71.82%
+Iteration 490, loss: 0.7792251706123352
+	Accuracy on 10000 images: 70.33 . Max accuracy is 71.82%
+Iteration 500, loss: 0.8452118039131165
+	Accuracy on 10000 images: 68.95 . Max accuracy is 71.82%
+=== Epoch 3 ===
+Iteration 10, loss: 1.0159860849380493
+	Accuracy on 10000 images: 69.37 . Max accuracy is 71.82%
+Iteration 20, loss: 0.9716679453849792
+	Accuracy on 10000 images: 65.4 . Max accuracy is 71.82%
+Iteration 30, loss: 0.9666687250137329
+	Accuracy on 10000 images: 69.41 . Max accuracy is 71.82%
+Iteration 40, loss: 0.9580104947090149
+	Accuracy on 10000 images: 67.69 . Max accuracy is 71.82%
+Iteration 50, loss: 0.795179009437561
+	Accuracy on 10000 images: 69.09 . Max accuracy is 71.82%
+Iteration 60, loss: 0.80396568775177
+	Accuracy on 10000 images: 70.14 . Max accuracy is 71.82%
+Iteration 70, loss: 0.7574112415313721
+	Accuracy on 10000 images: 71.01 . Max accuracy is 71.82%
+Iteration 80, loss: 0.84291672706604
+	Accuracy on 10000 images: 70.63 . Max accuracy is 71.82%
+Iteration 90, loss: 0.6658289432525635
+	Accuracy on 10000 images: 70.75 . Max accuracy is 71.82%
+Iteration 100, loss: 0.9727545380592346
+	Accuracy on 10000 images: 66.88 . Max accuracy is 71.82%
+Iteration 110, loss: 0.9164131283760071
+	Accuracy on 10000 images: 70.21 . Max accuracy is 71.82%
+Iteration 120, loss: 0.9766325950622559
+	Accuracy on 10000 images: 69.5 . Max accuracy is 71.82%
+Iteration 130, loss: 0.877970278263092
+	Accuracy on 10000 images: 68.59 . Max accuracy is 71.82%
+Iteration 140, loss: 0.933694064617157
+	Accuracy on 10000 images: 70.85 . Max accuracy is 71.82%
+Iteration 150, loss: 1.1585676670074463
+	Accuracy on 10000 images: 66.57 . Max accuracy is 71.82%
+Iteration 160, loss: 1.0435066223144531
+	Accuracy on 10000 images: 69.09 . Max accuracy is 71.82%
+Iteration 170, loss: 1.1085867881774902
+	Accuracy on 10000 images: 70.45 . Max accuracy is 71.82%
+Iteration 180, loss: 0.7674024701118469
+	Accuracy on 10000 images: 67.9 . Max accuracy is 71.82%
+Iteration 190, loss: 0.9984585642814636
+	Accuracy on 10000 images: 67.72 . Max accuracy is 71.82%
+Iteration 200, loss: 0.8363427519798279
+	Accuracy on 10000 images: 71.23 . Max accuracy is 71.82%
+Iteration 210, loss: 0.8876331448554993
+	Accuracy on 10000 images: 68.11 . Max accuracy is 71.82%
+Iteration 220, loss: 0.8736516833305359
+	Accuracy on 10000 images: 70.11 . Max accuracy is 71.82%
+Iteration 230, loss: 1.0104336738586426
+	Accuracy on 10000 images: 67.83 . Max accuracy is 71.82%
+Iteration 240, loss: 0.7255581617355347
+	Accuracy on 10000 images: 69.28 . Max accuracy is 71.82%
+Iteration 250, loss: 0.8434966802597046
+	Accuracy on 10000 images: 67.65 . Max accuracy is 71.82%
+Iteration 260, loss: 1.125455617904663
+	Accuracy on 10000 images: 69.21 . Max accuracy is 71.82%
+Iteration 270, loss: 0.9815336465835571
+	Accuracy on 10000 images: 63.83 . Max accuracy is 71.82%
+Iteration 280, loss: 1.1143089532852173
+	Accuracy on 10000 images: 67.48 . Max accuracy is 71.82%
+Iteration 290, loss: 1.28495454788208
+	Accuracy on 10000 images: 62.42 . Max accuracy is 71.82%
+Iteration 300, loss: 1.2208466529846191
+	Accuracy on 10000 images: 64.42 . Max accuracy is 71.82%
+Iteration 310, loss: 0.8880211114883423
+	Accuracy on 10000 images: 65.94 . Max accuracy is 71.82%
+Iteration 320, loss: 1.17173171043396
+	Accuracy on 10000 images: 63.89 . Max accuracy is 71.82%
+Iteration 330, loss: 1.0399774312973022
+	Accuracy on 10000 images: 66.95 . Max accuracy is 71.82%
+Iteration 340, loss: 0.9918562173843384
+	Accuracy on 10000 images: 63.3 . Max accuracy is 71.82%
+Iteration 350, loss: 1.0148499011993408
+	Accuracy on 10000 images: 65.45 . Max accuracy is 71.82%
+Iteration 360, loss: 0.8531202673912048
+	Accuracy on 10000 images: 68.21 . Max accuracy is 71.82%
+Iteration 370, loss: 0.8905700445175171
+	Accuracy on 10000 images: 69.68 . Max accuracy is 71.82%
+Iteration 380, loss: 1.0690679550170898
+	Accuracy on 10000 images: 63.95 . Max accuracy is 71.82%
+Iteration 390, loss: 1.1478558778762817
+	Accuracy on 10000 images: 66.76 . Max accuracy is 71.82%
+Iteration 400, loss: 1.1425708532333374
+	Accuracy on 10000 images: 61.6 . Max accuracy is 71.82%
+Iteration 410, loss: 0.9949148297309875
+	Accuracy on 10000 images: 66.93 . Max accuracy is 71.82%
+Iteration 420, loss: 1.0434967279434204
+	Accuracy on 10000 images: 68.25 . Max accuracy is 71.82%
+Iteration 430, loss: 1.2099382877349854
+	Accuracy on 10000 images: 62.47 . Max accuracy is 71.82%
+Iteration 440, loss: 1.2851147651672363
+	Accuracy on 10000 images: 62.75 . Max accuracy is 71.82%
+Iteration 450, loss: 1.1170909404754639
+	Accuracy on 10000 images: 62.55 . Max accuracy is 71.82%
+Iteration 460, loss: 1.180497646331787
+	Accuracy on 10000 images: 64.15 . Max accuracy is 71.82%
+Iteration 470, loss: 0.8140361905097961
+	Accuracy on 10000 images: 67.91 . Max accuracy is 71.82%
+Iteration 480, loss: 1.0746504068374634
+	Accuracy on 10000 images: 64.29 . Max accuracy is 71.82%
+Iteration 490, loss: 1.070597529411316
+	Accuracy on 10000 images: 65.41 . Max accuracy is 71.82%
+Iteration 500, loss: 1.135375738143921
+	Accuracy on 10000 images: 63.87 . Max accuracy is 71.82%
+=== Epoch 4 ===
+Iteration 10, loss: 1.2718944549560547
+	Accuracy on 10000 images: 56.95 . Max accuracy is 71.82%
+Iteration 20, loss: 1.3536906242370605
+	Accuracy on 10000 images: 61.43 . Max accuracy is 71.82%
+Iteration 30, loss: 1.3398637771606445
+	Accuracy on 10000 images: 59.83 . Max accuracy is 71.82%
+Iteration 40, loss: 1.0940855741500854
+	Accuracy on 10000 images: 56.23 . Max accuracy is 71.82%
+Iteration 50, loss: 1.2412617206573486
+	Accuracy on 10000 images: 56.51 . Max accuracy is 71.82%
+Iteration 60, loss: 1.3093816041946411
+	Accuracy on 10000 images: 58.02 . Max accuracy is 71.82%
+Iteration 70, loss: 1.5878236293792725
+	Accuracy on 10000 images: 51.99 . Max accuracy is 71.82%
+Iteration 80, loss: 1.5978692770004272
+	Accuracy on 10000 images: 52.75 . Max accuracy is 71.82%
+Iteration 90, loss: 1.5362136363983154
+	Accuracy on 10000 images: 51.57 . Max accuracy is 71.82%
+Iteration 100, loss: 1.6307395696640015
+	Accuracy on 10000 images: 45.37 . Max accuracy is 71.82%
+Iteration 110, loss: 1.5732066631317139
+	Accuracy on 10000 images: 47.67 . Max accuracy is 71.82%
+Iteration 120, loss: 1.9368504285812378
+	Accuracy on 10000 images: 40.08 . Max accuracy is 71.82%
+Iteration 130, loss: 1.9055708646774292
+	Accuracy on 10000 images: 40.8 . Max accuracy is 71.82%
+Iteration 140, loss: 1.7182191610336304
+	Accuracy on 10000 images: 42.76 . Max accuracy is 71.82%
+Iteration 150, loss: 1.5107334852218628
+	Accuracy on 10000 images: 39.86 . Max accuracy is 71.82%
+Iteration 160, loss: 1.7442468404769897
+	Accuracy on 10000 images: 39.66 . Max accuracy is 71.82%
+Iteration 170, loss: 1.7474453449249268
+	Accuracy on 10000 images: 38.9 . Max accuracy is 71.82%
+Iteration 180, loss: 1.7376761436462402
+	Accuracy on 10000 images: 40.34 . Max accuracy is 71.82%
+Iteration 190, loss: 1.836930274963379
+	Accuracy on 10000 images: 39.3 . Max accuracy is 71.82%
+Iteration 200, loss: 1.6731550693511963
+	Accuracy on 10000 images: 42.95 . Max accuracy is 71.82%
+Iteration 210, loss: 1.8537166118621826
+	Accuracy on 10000 images: 40.03 . Max accuracy is 71.82%
+Iteration 220, loss: 1.6178828477859497
+	Accuracy on 10000 images: 41.7 . Max accuracy is 71.82%
+Iteration 230, loss: 1.8161978721618652
+	Accuracy on 10000 images: 40.63 . Max accuracy is 71.82%
+Iteration 240, loss: 1.6916775703430176
+	Accuracy on 10000 images: 42.17 . Max accuracy is 71.82%
+Iteration 250, loss: 1.7970119714736938
+	Accuracy on 10000 images: 38.0 . Max accuracy is 71.82%
+Iteration 260, loss: 1.8206334114074707
+	Accuracy on 10000 images: 39.99 . Max accuracy is 71.82%
+Iteration 270, loss: 1.714974045753479
+	Accuracy on 10000 images: 39.75 . Max accuracy is 71.82%
+Iteration 280, loss: 1.7372866868972778
+	Accuracy on 10000 images: 40.37 . Max accuracy is 71.82%
+Iteration 290, loss: 1.802819013595581
+	Accuracy on 10000 images: 40.57 . Max accuracy is 71.82%
+Iteration 300, loss: 1.758107304573059
+	Accuracy on 10000 images: 36.3 . Max accuracy is 71.82%
+Iteration 310, loss: 1.8546735048294067
+	Accuracy on 10000 images: 42.37 . Max accuracy is 71.82%
+Iteration 320, loss: 1.5536787509918213
+	Accuracy on 10000 images: 39.93 . Max accuracy is 71.82%
+Iteration 330, loss: 1.865350365638733
+	Accuracy on 10000 images: 39.73 . Max accuracy is 71.82%
+Iteration 340, loss: 1.8179293870925903
+	Accuracy on 10000 images: 39.12 . Max accuracy is 71.82%
+Iteration 350, loss: 1.8238322734832764
+	Accuracy on 10000 images: 41.2 . Max accuracy is 71.82%
+Iteration 360, loss: 1.6576588153839111
+	Accuracy on 10000 images: 39.36 . Max accuracy is 71.82%
+Iteration 370, loss: 1.836403250694275
+	Accuracy on 10000 images: 42.51 . Max accuracy is 71.82%
+Iteration 380, loss: 1.790033221244812
+	Accuracy on 10000 images: 40.22 . Max accuracy is 71.82%
+Iteration 390, loss: 1.6505640745162964
+	Accuracy on 10000 images: 39.71 . Max accuracy is 71.82%
+Iteration 400, loss: 1.7919334173202515
+	Accuracy on 10000 images: 40.18 . Max accuracy is 71.82%
+Iteration 410, loss: 1.8336901664733887
+	Accuracy on 10000 images: 39.51 . Max accuracy is 71.82%
+Iteration 420, loss: 1.6362992525100708
+	Accuracy on 10000 images: 42.35 . Max accuracy is 71.82%
+Iteration 430, loss: 1.716208815574646
+	Accuracy on 10000 images: 40.82 . Max accuracy is 71.82%
+Iteration 440, loss: 1.8336091041564941
+	Accuracy on 10000 images: 41.73 . Max accuracy is 71.82%
+Iteration 450, loss: 1.9074084758758545
+	Accuracy on 10000 images: 37.02 . Max accuracy is 71.82%
+Iteration 460, loss: 1.7247343063354492
+	Accuracy on 10000 images: 41.15 . Max accuracy is 71.82%
+Iteration 470, loss: 1.8183033466339111
+	Accuracy on 10000 images: 42.66 . Max accuracy is 71.82%
+Iteration 480, loss: 1.7222827672958374
+	Accuracy on 10000 images: 41.89 . Max accuracy is 71.82%
+Iteration 490, loss: 1.780423641204834
+	Accuracy on 10000 images: 40.89 . Max accuracy is 71.82%
+Iteration 500, loss: 1.5901403427124023
+	Accuracy on 10000 images: 43.45 . Max accuracy is 71.82%
+=== Epoch 5 ===
+Iteration 10, loss: 1.8742094039916992
+	Accuracy on 10000 images: 39.51 . Max accuracy is 71.82%
+Iteration 20, loss: 1.8980258703231812
+	Accuracy on 10000 images: 34.02 . Max accuracy is 71.82%
+Iteration 30, loss: 1.8478718996047974
+	Accuracy on 10000 images: 37.15 . Max accuracy is 71.82%
+Iteration 40, loss: 1.8711097240447998
+	Accuracy on 10000 images: 39.76 . Max accuracy is 71.82%
+Iteration 50, loss: 1.7128853797912598
+	Accuracy on 10000 images: 41.05 . Max accuracy is 71.82%
+Iteration 60, loss: 1.7261443138122559
+	Accuracy on 10000 images: 42.2 . Max accuracy is 71.82%
+Iteration 70, loss: 1.76393723487854
+	Accuracy on 10000 images: 39.64 . Max accuracy is 71.82%
+Iteration 80, loss: 1.6902636289596558
+	Accuracy on 10000 images: 37.07 . Max accuracy is 71.82%
+Iteration 90, loss: 1.7108594179153442
+	Accuracy on 10000 images: 41.49 . Max accuracy is 71.82%
+Iteration 100, loss: 1.7683132886886597
+	Accuracy on 10000 images: 42.21 . Max accuracy is 71.82%
+Iteration 110, loss: 1.6408233642578125
+	Accuracy on 10000 images: 40.07 . Max accuracy is 71.82%
+Iteration 120, loss: 1.6792840957641602
+	Accuracy on 10000 images: 41.91 . Max accuracy is 71.82%
+Iteration 130, loss: 1.6375521421432495
+	Accuracy on 10000 images: 42.38 . Max accuracy is 71.82%
+Iteration 140, loss: 1.758405327796936
+	Accuracy on 10000 images: 39.31 . Max accuracy is 71.82%
+Iteration 150, loss: 1.518282175064087
+	Accuracy on 10000 images: 40.6 . Max accuracy is 71.82%
+Iteration 160, loss: 1.8197474479675293
+	Accuracy on 10000 images: 39.74 . Max accuracy is 71.82%
+Iteration 170, loss: 1.6599342823028564
+	Accuracy on 10000 images: 41.31 . Max accuracy is 71.82%
+Iteration 180, loss: 1.631311058998108
+	Accuracy on 10000 images: 44.15 . Max accuracy is 71.82%
+Iteration 190, loss: 1.6018675565719604
+	Accuracy on 10000 images: 41.32 . Max accuracy is 71.82%
+Iteration 200, loss: 1.713241457939148
+	Accuracy on 10000 images: 40.91 . Max accuracy is 71.82%
+Iteration 210, loss: 1.8492982387542725
+	Accuracy on 10000 images: 42.19 . Max accuracy is 71.82%
+Iteration 220, loss: 1.9357380867004395
+	Accuracy on 10000 images: 42.64 . Max accuracy is 71.82%
+Iteration 230, loss: 1.673963189125061
+	Accuracy on 10000 images: 41.71 . Max accuracy is 71.82%
+Iteration 240, loss: 1.6936215162277222
+	Accuracy on 10000 images: 40.12 . Max accuracy is 71.82%
+Iteration 250, loss: 1.6268061399459839
+	Accuracy on 10000 images: 42.5 . Max accuracy is 71.82%
+Iteration 260, loss: 1.6186866760253906
+	Accuracy on 10000 images: 41.9 . Max accuracy is 71.82%
+Iteration 270, loss: 1.5819923877716064
+	Accuracy on 10000 images: 43.29 . Max accuracy is 71.82%
+Iteration 280, loss: 1.8218461275100708
+	Accuracy on 10000 images: 40.95 . Max accuracy is 71.82%
+Iteration 290, loss: 1.5442726612091064
+	Accuracy on 10000 images: 41.9 . Max accuracy is 71.82%
+Iteration 300, loss: 1.5896697044372559
+	Accuracy on 10000 images: 42.02 . Max accuracy is 71.82%
+Iteration 310, loss: 1.6155328750610352
+	Accuracy on 10000 images: 44.97 . Max accuracy is 71.82%
+Iteration 320, loss: 1.8164093494415283
+	Accuracy on 10000 images: 42.89 . Max accuracy is 71.82%
+Iteration 330, loss: 1.732237696647644
+	Accuracy on 10000 images: 43.59 . Max accuracy is 71.82%
+Iteration 340, loss: 1.514064073562622
+	Accuracy on 10000 images: 43.99 . Max accuracy is 71.82%
+Iteration 350, loss: 1.6372084617614746
+	Accuracy on 10000 images: 39.49 . Max accuracy is 71.82%
+Iteration 360, loss: 1.6265654563903809
+	Accuracy on 10000 images: 40.04 . Max accuracy is 71.82%
+Iteration 370, loss: 1.697137475013733
+	Accuracy on 10000 images: 38.76 . Max accuracy is 71.82%
+Iteration 380, loss: 1.842380166053772
+	Accuracy on 10000 images: 40.12 . Max accuracy is 71.82%
+Iteration 390, loss: 1.7488151788711548
+	Accuracy on 10000 images: 42.42 . Max accuracy is 71.82%
+Iteration 400, loss: 1.7406301498413086
+	Accuracy on 10000 images: 39.98 . Max accuracy is 71.82%
+Iteration 410, loss: 1.7475396394729614
+	Accuracy on 10000 images: 40.61 . Max accuracy is 71.82%
+Iteration 420, loss: 1.9617798328399658
+	Accuracy on 10000 images: 40.09 . Max accuracy is 71.82%
+Iteration 430, loss: 1.6983798742294312
+	Accuracy on 10000 images: 43.81 . Max accuracy is 71.82%
+Iteration 440, loss: 1.5675843954086304
+	Accuracy on 10000 images: 43.89 . Max accuracy is 71.82%
+Iteration 450, loss: 1.8244879245758057
+	Accuracy on 10000 images: 39.47 . Max accuracy is 71.82%
+Iteration 460, loss: 1.7268136739730835
+	Accuracy on 10000 images: 41.73 . Max accuracy is 71.82%
+Iteration 470, loss: 1.8325577974319458
+	Accuracy on 10000 images: 40.17 . Max accuracy is 71.82%
+Iteration 480, loss: 1.6470534801483154
+	Accuracy on 10000 images: 41.44 . Max accuracy is 71.82%
+Iteration 490, loss: 1.6735109090805054
+	Accuracy on 10000 images: 40.41 . Max accuracy is 71.82%
+Iteration 500, loss: 1.6429452896118164
+	Accuracy on 10000 images: 42.85 . Max accuracy is 71.82%
+=== Epoch 6 ===
+Iteration 10, loss: 1.6500188112258911
+	Accuracy on 10000 images: 37.84 . Max accuracy is 71.82%
+Iteration 20, loss: 1.72965669631958
+	Accuracy on 10000 images: 40.89 . Max accuracy is 71.82%
+Iteration 30, loss: 1.8454076051712036
+	Accuracy on 10000 images: 42.9 . Max accuracy is 71.82%
+Iteration 40, loss: 1.4959895610809326
+	Accuracy on 10000 images: 44.32 . Max accuracy is 71.82%
+Iteration 50, loss: 1.6619079113006592
+	Accuracy on 10000 images: 43.35 . Max accuracy is 71.82%
+Iteration 60, loss: 1.6882658004760742
+	Accuracy on 10000 images: 40.19 . Max accuracy is 71.82%
+Iteration 70, loss: 1.6609125137329102
+	Accuracy on 10000 images: 40.05 . Max accuracy is 71.82%
+Iteration 80, loss: 1.60102117061615
+	Accuracy on 10000 images: 42.28 . Max accuracy is 71.82%
+Iteration 90, loss: 1.6782958507537842
+	Accuracy on 10000 images: 42.77 . Max accuracy is 71.82%
+Iteration 100, loss: 1.6497503519058228
+	Accuracy on 10000 images: 42.62 . Max accuracy is 71.82%
+Iteration 110, loss: 1.5243802070617676
+	Accuracy on 10000 images: 42.61 . Max accuracy is 71.82%
+Iteration 120, loss: 1.5312037467956543
+	Accuracy on 10000 images: 44.14 . Max accuracy is 71.82%
+Iteration 130, loss: 1.6280527114868164
+	Accuracy on 10000 images: 42.19 . Max accuracy is 71.82%
+Iteration 140, loss: 1.5040123462677002
+	Accuracy on 10000 images: 44.03 . Max accuracy is 71.82%
+Iteration 150, loss: 1.748392939567566
+	Accuracy on 10000 images: 39.43 . Max accuracy is 71.82%
+Iteration 160, loss: 1.6708588600158691
+	Accuracy on 10000 images: 42.97 . Max accuracy is 71.82%
+Iteration 170, loss: 1.8151110410690308
+	Accuracy on 10000 images: 43.4 . Max accuracy is 71.82%
+Iteration 180, loss: 1.8393943309783936
+	Accuracy on 10000 images: 43.47 . Max accuracy is 71.82%
+Iteration 190, loss: 1.4833749532699585
+	Accuracy on 10000 images: 43.42 . Max accuracy is 71.82%
+Iteration 200, loss: 1.7183663845062256
+	Accuracy on 10000 images: 43.75 . Max accuracy is 71.82%
+Iteration 210, loss: 1.6916530132293701
+	Accuracy on 10000 images: 40.59 . Max accuracy is 71.82%
+Iteration 220, loss: 1.5405473709106445
+	Accuracy on 10000 images: 45.28 . Max accuracy is 71.82%
+Iteration 230, loss: 1.4233720302581787
+	Accuracy on 10000 images: 43.17 . Max accuracy is 71.82%
+Iteration 240, loss: 1.8265093564987183
+	Accuracy on 10000 images: 43.78 . Max accuracy is 71.82%
+Iteration 250, loss: 1.6172386407852173
+	Accuracy on 10000 images: 43.0 . Max accuracy is 71.82%
+Iteration 260, loss: 1.5240141153335571
+	Accuracy on 10000 images: 43.96 . Max accuracy is 71.82%
+Iteration 270, loss: 1.768593430519104
+	Accuracy on 10000 images: 43.09 . Max accuracy is 71.82%
+Iteration 280, loss: 1.612634539604187
+	Accuracy on 10000 images: 45.48 . Max accuracy is 71.82%
+Iteration 290, loss: 1.8841369152069092
+	Accuracy on 10000 images: 37.73 . Max accuracy is 71.82%
+Iteration 300, loss: 1.6063339710235596
+	Accuracy on 10000 images: 43.46 . Max accuracy is 71.82%
+Iteration 310, loss: 1.6616572141647339
+	Accuracy on 10000 images: 44.65 . Max accuracy is 71.82%
+Iteration 320, loss: 1.5797175168991089
+	Accuracy on 10000 images: 42.93 . Max accuracy is 71.82%
+Iteration 330, loss: 1.6293989419937134
+	Accuracy on 10000 images: 44.79 . Max accuracy is 71.82%
+Iteration 340, loss: 1.7460579872131348
+	Accuracy on 10000 images: 42.16 . Max accuracy is 71.82%
+Iteration 350, loss: 1.6693707704544067
+	Accuracy on 10000 images: 41.44 . Max accuracy is 71.82%
+Iteration 360, loss: 1.6704421043395996
+	Accuracy on 10000 images: 42.5 . Max accuracy is 71.82%
+Iteration 370, loss: 1.7243772745132446
+	Accuracy on 10000 images: 44.56 . Max accuracy is 71.82%
+Iteration 380, loss: 1.4747203588485718
+	Accuracy on 10000 images: 45.33 . Max accuracy is 71.82%
+Iteration 390, loss: 2.0138397216796875
+	Accuracy on 10000 images: 38.24 . Max accuracy is 71.82%
+Iteration 400, loss: 1.6047019958496094
+	Accuracy on 10000 images: 42.26 . Max accuracy is 71.82%
+Iteration 410, loss: 1.5599770545959473
+	Accuracy on 10000 images: 46.18 . Max accuracy is 71.82%
+Iteration 420, loss: 1.5802147388458252
+	Accuracy on 10000 images: 45.18 . Max accuracy is 71.82%
+Iteration 430, loss: 1.6378816366195679
+	Accuracy on 10000 images: 43.51 . Max accuracy is 71.82%
+Iteration 440, loss: 1.6404213905334473
+	Accuracy on 10000 images: 46.05 . Max accuracy is 71.82%
+Iteration 450, loss: 1.6415774822235107
+	Accuracy on 10000 images: 41.75 . Max accuracy is 71.82%
+Iteration 460, loss: 1.6342148780822754
+	Accuracy on 10000 images: 44.55 . Max accuracy is 71.82%
+Iteration 470, loss: 1.630027413368225
+	Accuracy on 10000 images: 44.99 . Max accuracy is 71.82%
+Iteration 480, loss: 1.815125584602356
+	Accuracy on 10000 images: 42.38 . Max accuracy is 71.82%
+Iteration 490, loss: 1.742723822593689
+	Accuracy on 10000 images: 45.33 . Max accuracy is 71.82%
+Iteration 500, loss: 1.6738203763961792
+	Accuracy on 10000 images: 42.21 . Max accuracy is 71.82%
+=== Epoch 7 ===
+Iteration 10, loss: 1.6285802125930786
+	Accuracy on 10000 images: 45.43 . Max accuracy is 71.82%
+Iteration 20, loss: 1.4427660703659058
+	Accuracy on 10000 images: 45.22 . Max accuracy is 71.82%
+Iteration 30, loss: 1.5297144651412964
+	Accuracy on 10000 images: 41.83 . Max accuracy is 71.82%
+Iteration 40, loss: 1.5603824853897095
+	Accuracy on 10000 images: 45.92 . Max accuracy is 71.82%
+Iteration 50, loss: 1.6056442260742188
+	Accuracy on 10000 images: 43.51 . Max accuracy is 71.82%
+Iteration 60, loss: 1.6474725008010864
+	Accuracy on 10000 images: 43.6 . Max accuracy is 71.82%
+Iteration 70, loss: 1.6089657545089722
+	Accuracy on 10000 images: 41.45 . Max accuracy is 71.82%
+Iteration 80, loss: 1.7937185764312744
+	Accuracy on 10000 images: 44.59 . Max accuracy is 71.82%
+Iteration 90, loss: 1.6944438219070435
+	Accuracy on 10000 images: 42.86 . Max accuracy is 71.82%
+Iteration 100, loss: 1.6946834325790405
+	Accuracy on 10000 images: 44.99 . Max accuracy is 71.82%
+Iteration 110, loss: 1.5163394212722778
+	Accuracy on 10000 images: 45.09 . Max accuracy is 71.82%
+Iteration 120, loss: 1.8698303699493408
+	Accuracy on 10000 images: 41.98 . Max accuracy is 71.82%
+Iteration 130, loss: 1.4738940000534058
+	Accuracy on 10000 images: 46.8 . Max accuracy is 71.82%
+Iteration 140, loss: 1.557277798652649
+	Accuracy on 10000 images: 42.59 . Max accuracy is 71.82%
+Iteration 150, loss: 1.7830536365509033
+	Accuracy on 10000 images: 45.22 . Max accuracy is 71.82%
+Iteration 160, loss: 1.7177435159683228
+	Accuracy on 10000 images: 43.62 . Max accuracy is 71.82%
+Iteration 170, loss: 1.6008784770965576
+	Accuracy on 10000 images: 43.98 . Max accuracy is 71.82%
+Iteration 180, loss: 1.80271577835083
+	Accuracy on 10000 images: 44.87 . Max accuracy is 71.82%
+Iteration 190, loss: 1.7246181964874268
+	Accuracy on 10000 images: 43.56 . Max accuracy is 71.82%
+Iteration 200, loss: 1.7075978517532349
+	Accuracy on 10000 images: 45.72 . Max accuracy is 71.82%
+Iteration 210, loss: 1.7549519538879395
+	Accuracy on 10000 images: 39.63 . Max accuracy is 71.82%
+Iteration 220, loss: 1.734338402748108
+	Accuracy on 10000 images: 42.09 . Max accuracy is 71.82%
+Iteration 230, loss: 1.6183451414108276
+	Accuracy on 10000 images: 45.45 . Max accuracy is 71.82%
+Iteration 240, loss: 1.588749885559082
